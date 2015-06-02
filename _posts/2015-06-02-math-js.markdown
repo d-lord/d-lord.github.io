@@ -5,7 +5,8 @@ date: 2015-06-02 11:10:00
 meta: >
     Using MathJax rendering on a per-post basis in Jekyll.
 extra_script: mathjax.script
-categories: jekyll
+categories:
+tags: jekyll mathjax latex
 ---
 There's a library called MathJax which renders LaTeX equations in Javascript. It seems pretty neat, and its site has a long list of sponsors including StackExchange and IEEE.
 
