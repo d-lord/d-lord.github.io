@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Importing MathJax"
+date: 2015-06-02 11:10:00
+extra_script: mathjax.script
+categories: jekyll
+---
+There's a library called MathJax which renders LaTeX equations in Javascript. It seems pretty neat, and its site has a long list of sponsors including StackExchange and IEEE.
+
+I'm playing with importing it -- Jekyll's "[front matter][jekyll-frontmatter]" lets you specify variables at the start of a file using [YAML][YAML] syntax, and you can tell the post header to include those variables as scripts. Scripts are stored as files.
+
+Technique came from [this StackOverflow answer][so-answer], and I've modified it to expand the file's contents rather than reference it in a command.
+
+Anyway, the final result -- here is a block of LaTeX from [Kramdown's example][kramdown-math-ex]:
+
+$$
+\begin{align*}
+  & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
+  = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
+  & (x_1, \ldots, x_n) \left( \begin{array}{ccc}
+      \phi(e_1, e_1) & \cdots & \phi(e_1, e_n) \\
+      \vdots & \ddots & \vdots \\
+      \phi(e_n, e_1) & \cdots & \phi(e_n, e_n)
+    \end{array} \right)
+  \left( \begin{array}{c}
+      y_1 \\
+      \vdots \\
+      y_n
+    \end{array} \right)
+\end{align*}
+$$
+
+[jekyll-frontmatter]: http://jekyllrb.com/docs/frontmatter
+[YAML]: http://yaml.org
+[so-answer]: http://stackoverflow.com/questions/14113559/how-to-tune-layout-for-a-particular-page-post-in-jekyll
+[kramdown-math-ex]: http://kramdown.gettalong.org/syntax.html#math-blocks
