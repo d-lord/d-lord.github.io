@@ -12,3 +12,9 @@ github_username:  d-lord
 
 # Build settings
 markdown: kramdown
+
+kramdown:
+    math_engine: mathjax
+
+# other
+highlighter: pygments
