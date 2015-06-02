@@ -1,10 +1,15 @@
+# jekyll
 _site
 .sass-cache
-### https://raw.github.com/github/gitignore/8559c8a381a26e596fc3cf76eeb99df2a62eebf8/Global/vim.gitignore
 
+# vim
+# https://raw.github.com/github/gitignore/8559c8a381a26e596fc3cf76eeb99df2a62eebf8/Global/vim.gitignore
 [._]*.s[a-w][a-z]
 [._]s[a-w][a-z]
 *.un~
 Session.vim
 .netrwhist
 *~
+
+# ruby
+Gemfile.lock
