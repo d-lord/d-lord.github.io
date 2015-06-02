@@ -2,6 +2,8 @@
 layout: post
 title: "Importing MathJax"
 date: 2015-06-02 11:10:00
+meta: >
+    Using MathJax rendering on a per-post basis in Jekyll.
 extra_script: mathjax.script
 categories: jekyll
 ---
