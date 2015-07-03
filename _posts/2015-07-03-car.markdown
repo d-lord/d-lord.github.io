@@ -1,0 +1,59 @@
+---
+layout: post
+title:  "I'm not buying a car"
+date:   2015-07-03 09:99L99
+published: true
+categories: car fiesta-st phone
+---
+A few years ago, my conscience branched out into personal finance. It has diligently acted as an always-on financial advisor ever since.
+(alt) A few years ago, I left home, and my conscience took on a second job to pay the bills: it branched out into personal finance.
+
+(too long?)
+This has caused some inconveniences for me. For example, I bought an ex-corporate iPhone 4 just after the 5 came out. [footnote: rendering its successor, the 4s, not-quite-current.] It's served me faithfully, but it's getting past it: Apple stopped releasing updates for it last year [check] and it's slowed down enough that I can give it input three seconds in advance. Replacing it with something snappier would cost around $850, maybe $1100 if I bought a current-generation phone. I've agonised over it for months, but pulling the trigger on a grand's purchase is ... something that my conscience very conscientiously questions.
+
+Personal *transport*, however, is the polar opposite of personal *finance*. For all that I like the idea of public transport, its execution isn't always ideal. It takes me an hour by bus to get from my house to my girlfriend's, or fifteen minutes by car. Sometimes I'm willing to make the trek (which includes a couple of kilometres of hill-walking), sometimes I just want to be places. I've thought about scooters, motorbikes, and small cars -- nothing fancy, but something that can navigate roads.
+
+
+![The Fiesta ST (stock photo, practically identical).](images/fiesta-st.jpg){: .center-image }
+
+(awkward transition)
+Hot hatches, however...
+
+[whole section doesn't give much 'story': dad's mx5, sam's gti, alf's clio]
+Enter the Fiesta ST. Ford have taken their subcompact hatchback and given it some go-fast parts: a 200hp turbo-petrol engine, an electronic front LSD [footnote: read: clever brake programming, which isn't quite the same thing], and a shockingly bright orange paint scheme. I took one for a test-drive the other day, not to buy it, just to see whether this is a goal worth setting or - hopefully - just to show myself that it's not all it's claimed to be, and I should stop drooling.
+
+Yeah, nah. It's everything I want from a car right now. Small form factor, plenty of space inside for two, useful boot, usable rear seats for four, good fuel economy, manual transmission, and when you ask it to it *goes*. Very, very happily. The salesman made it do some things I wouldn't dare with a $2k insurance excess, and it loved it.
+
+It has some compromises, being a modified economy car. The infotainment and speaker systems aren't great (so what?), it has three doors rather than five, and the interior is nice but modest. I don't really care about these. The rear parking sensors are basic but, hell, it has some. And the turning circle is rubbish for a compact car.
+
+This could very easily fit into my life. It works as a perfectly innocuous city car (one painted bright orange), but past half throttle, it's suddenly a modest sports car. I could love it, baby it, wipe brake dust off the wheels weekly and moan the whole time... [footnote: "moan" as in "bitch", but the double-entendre isn't entirely inaccurate] But cars are so damn expensive to run.
+
+[racv-tco][RACV released a report recently] on the total cost of ownership (TCO) of a new car over five years. In short, I think they did a good job including all the costs, although the expected annual mileage is a bit high for me. The absolute minimum they could get is about $100/wk. *Minimum*. Of course, you don't have to buy cars new, and in general I approve of buying second-hand and good-condition: it saves a lot of money and only costs some "shiny" factor. But for a hot car specifically, I think it's really hard to judge condition: did the previous owner flog it from cold? I don't want to be responsible for a turbocharger which took a lot of damage from that kind of treatment.
+
+But... I want one. I've been fighting this war for months inside my head, and it recently heated up when I decided to try this test-drive and hopefully decide that it's not a war worth fighting: unfortunately, it turned out that the Fiesta ST is a beautiful, lethal escalation. It's the mustard gas to my [Ypres][wiki-mustard-gas]. 
+
+[I took so long to get here that all my clever ideas for this section have petered out]
+Individual battlegrounds of this war:
+* It's small! That means the environmental impact is relatively minor. *Yes, but it's still more than a ton of complex manufacturing, which burns a lot more oil than a bicycle or 50cc scooter.*
+* I'm about to have a solid income! I could make no lifestyle cuts and pay the whole purchase price in a year. *You could put a lot of money into savings, or make other upgrades to your lifestyle for a lot less. Also, being car-poor is something you know about, and don't want to get stuck in.*
+[footnote: lifestyle inflation is definitely a thing, but I've deflated my lifestyle a *lot* to get this far. Staying mindful of it but I don't think it's a concern.]
+* I've been thinking about it for so long, and I'm convinced I'd get a lot of value. *The numbers don't care.*
+* I've graduated! It's a big milestone and I've done well to get here. *Well done, take yourself out to dinner. That's well within your reach.*
+* No student debt. That puts me in a good position relative to most other ex-students my age. *It wasn't easy. Why blow that?*
+* Maybe a second-hand model? *Good odds that you'll feel uncomfortable relying on it, if it's any fun at all.*
+
+On the other hand, it's terrible value for money. A short list of other things I want to spend money on in my life, assuming I splash out:
+* New phone, $1k. Not just because new stuff, but because I'm having daily genuine problems with it.
+* Amazing ergonomic chair, $1k. There's some "shiny" factor, but ergonomics are important long-term, and the current chair drives me nuts. Didn't test it properly when I chose it.
+* Mac desktop, $2-3k. I want an OSX desktop environment, because it's where I'm most productive and comfortable.
+* Non-awful monitors, $2k. The ones I want don't actually exist yet but will soon, and an upper-end estimate is $1k apiece.
+* New desk, $1k. Current one is creaky. Unlikely to cost anywhere near $1k, but hey, splash out.
+
+A lot of the justifications here sound weak as written, but I believe they're valid. The detail doesn't matter. The thing is, though, this list -- *everything* I can think of that would make my daily life significantly better -- comes to a *lot* less than this damn car. Most of these items aren't great value to start with, but they're still much better value for money. If I'm going to buy myself a graduation gift, which isn't inherently a bad idea, any one of these would be perfectly valid.
+
+It's utterly daft that I've agonised over replacing my slow, problematic phone for months, and yet I've thought of spending 25x that on something which would *then* enable me to trade money for fun. Daft.
+
+I'm not buying a car. But I sure wish I were.
+
+[racv-tco]: http://www.racq.com.au/cars-and-driving/cars/owning-and-maintaining-a-car/car-running-costs
+[wiki-mustard-gas]: https://en.wikipedia.org/wiki/Chemical_weapons_in_World_War_I#1917:_Mustard_gas
