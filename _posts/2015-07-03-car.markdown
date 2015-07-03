@@ -14,7 +14,7 @@ This has caused some inconveniences for me. For example, I bought an ex-corporat
 Personal *transport*, however, is the polar opposite of personal *finance*. For all that I like the idea of public transport, its execution isn't always ideal. It takes me an hour by bus to get from my house to my girlfriend's, or fifteen minutes by car. Sometimes I'm willing to make the trek (which includes a couple of kilometres of hill-walking), sometimes I just want to be places. I've thought about scooters, motorbikes, and small cars -- nothing fancy, but something that can navigate roads.
 
 
-![The Fiesta ST (stock photo, practically identical).](images/fiesta-st.jpg){: .center-image }
+![The Fiesta ST (stock photo, practically identical).](images/fiesta-st.jpg)
 
 (awkward transition)
 Hot hatches, however...
@@ -32,7 +32,7 @@ This could very easily fit into my life. It works as a perfectly innocuous city 
 
 But... I want one. I've been fighting this war for months inside my head, and it recently heated up when I decided to try this test-drive and hopefully decide that it's not a war worth fighting: unfortunately, it turned out that the Fiesta ST is a beautiful, lethal escalation. It's the mustard gas to my [Ypres][wiki-mustard-gas]. 
 
-[I took so long to get here that all my clever ideas for this section have petered out]
+(I took so long to get here that all my clever ideas for this section have petered out)
 Individual battlegrounds of this war:
 * It's small! That means the environmental impact is relatively minor. *Yes, but it's still more than a ton of complex manufacturing, which burns a lot more oil than a bicycle or 50cc scooter.*
 * I'm about to have a solid income! I could make no lifestyle cuts and pay the whole purchase price in a year. *You could put a lot of money into savings, or make other upgrades to your lifestyle for a lot less. Also, being car-poor is something you know about, and don't want to get stuck in.*
