@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "I'm not buying a car"
-date:   2015-07-03 09:99L99
-published: true
+date:   2015-07-03 00:00
+published: false
 categories: car fiesta-st phone
 ---
 A few years ago, my conscience branched out into personal finance. It has diligently acted as an always-on financial advisor ever since.
