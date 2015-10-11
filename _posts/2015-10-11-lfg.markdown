@@ -1,20 +1,66 @@
 ---
 layout: post
-title:	"Looking for Group"
+title:	"Looking for a housemate"
 date:	2015-10-11 11:10:00
 published: true
 meta: >
-    Housemate ad.
+    Housemate ad
 categories:
 tags: goldcoast house living
 ---
 
-Hi, I'm looking for somewhere to live.
+Hi, I'm looking for somewhere to live on the Gold Coast.
 
-##About me
+<img src="/assets/me.jpg" width="200"/>{: .center-image}
+
+## About me
 
 I'm 23, from New Zealand, and I've been in Brisbane for the last four years.
 I studied computer science at [UQ](http://www.uq.edu.au).
-I'm starting a graduate position at IBM in 2016.
+I have a lovely girlfriend in Brisbane but she won't be coming with me, so I'll be visiting her on weekends.
 
-<img src="/assets/me.jpg" width="200"/>{: .center-image}
+I'm starting a graduate position at IBM in **Southport** on **February 2016**. Moving mid-January would be great.
+
+### Interests
+* I like history, music, video games, reading.
+* I've been playing a lot of Hearthstone and Team Fortress 2 lately, with some Kerbal Space Program thrown in.
+* I used to have a car - pretty keen on driving.
+* It's getting a bit warm for cycling, but in the cooler months I like my bike.
+* A lot of computer stuff, of course. Building infrastructure, parsing text, Vim.
+* Looking forward to living near the beach!
+
+## Where?
+Somewhere near the north end of Southport - that's where the office is, and I like walking to work.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5453.243804916777!2d153.41359131214574!3d-27.97071100196817!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b910f8d257d772d%3A0xe692577e00dbd7c5!2sShort+St%2C+Southport+QLD+4215!5e0!3m2!1sen!2sau!4v1444540164215" width="700" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+## What kind of place?
+I'm looking to spend about $200/wk. Could be part of a share house, could be an apartment or townhouse. I don't need a ton of space, but quiet is good.
+
+I've never lived in an apartment before, that could be fun...
+
+Here's a few places:
+
+* [This 2-bedroom unit looks great](http://www.realestate.com.au/property-unit-qld-southport-416625345)
+* [2-bedroom house with some outdoor space](http://www.realestate.com.au/property-unit-qld-southport-416835054)
+* [2-bed low-rise apartment](http://www.realestate.com.au/property-apartment-qld-southport-404981000)
+* [Another 2-bedroom low-rise apartment](http://www.realestate.com.au/property-unit-qld-southport-410505487)
+
+#### Details
+No car, but I might get one for the trips up to Brisbane.
+I'm okay sharing a bathroom, although an ensuite would be awesome.
+
+I've got my own furniture.
+
+
+## About you
+Hopefully you'll be clean, respectful of others' space and happy to hang out and talk about random stuff occasionally. I like big questions that start with "what if?".
+
+If you just want your space, that's fine too.
+
+I just want someone who'll wash up after they've finished dinner, you know?
+
+
+## Say hello!
+
+If you're still reading - come say hi! My contact details are at the bottom of the page. I'd love to hear from you.
