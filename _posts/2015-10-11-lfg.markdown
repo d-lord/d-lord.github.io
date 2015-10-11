@@ -9,9 +9,9 @@ categories:
 tags: goldcoast house living
 ---
 
+<div><img src="/assets/me.jpg" width="200"/></div>{: .right}
 Hi, I'm looking for somewhere to live on the Gold Coast.
 
-<div><img src="/assets/me.jpg" width="200"/></div>{: .right}
 
 ## About me
 
