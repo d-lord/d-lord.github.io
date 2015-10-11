@@ -2,7 +2,7 @@
 title: David Lord
 email: david.lord@uqconnect.edu.au
 description: > # this means to ignore newlines until "baseurl:"
-  A geek's gossip column.
+  I'm interested in things.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "d-lord.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
