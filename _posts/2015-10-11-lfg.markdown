@@ -1,0 +1,20 @@
+---
+layout: post
+title:	"Looking for Group"
+date:	2015-10-11 11:10:00
+published: true
+meta: >
+    Housemate ad.
+categories:
+tags: goldcoast house living
+---
+
+Hi, I'm looking for somewhere to live.
+
+##About me
+
+I'm 23, from New Zealand, and I've been in Brisbane for the last four years.
+I studied computer science at [UQ](http://www.uq.edu.au).
+I'm starting a graduate position at IBM in 2016.
+
+<img src="/assets/me.jpg" width="200"/>{: .center-image}
