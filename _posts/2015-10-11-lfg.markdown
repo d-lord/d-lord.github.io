@@ -11,7 +11,7 @@ tags: goldcoast house living
 
 Hi, I'm looking for somewhere to live on the Gold Coast.
 
-<img src="/assets/me.jpg" width="200"/>{: .center-image}
+<div><img src="/assets/me.jpg" width="200"/></div>{: .right}
 
 ## About me
 
@@ -22,7 +22,7 @@ I have a lovely girlfriend in Brisbane but she won't be coming with me, so I'll 
 I'm starting a graduate position at IBM in **Southport** on **February 2016**. Moving **mid-January** would be great.
 
 ### Interests
-* I like history, music, video games, reading.
+* I like reading, history, music, and video games.
 * I've been playing a lot of Hearthstone and Team Fortress 2 lately, with some Kerbal Space Program thrown in.
 * I used to have a car - pretty keen on driving.
 * It's getting a bit warm for cycling, but in the cooler months I like my bike.
