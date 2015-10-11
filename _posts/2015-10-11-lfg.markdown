@@ -10,7 +10,7 @@ tags: goldcoast house living
 ---
 
 <div><img src="/assets/me.jpg" width="200"/></div>{: .right}
-Hi, I'm looking for somewhere to live on the Gold Coast.
+Hi, I'm moving to the Gold Coast.
 
 
 ## About me
