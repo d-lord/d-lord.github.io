@@ -9,7 +9,7 @@ categories:
 tags: goldcoast house living
 ---
 
-<div><img src="/assets/me.jpg" width="200"/></div>{: .right}
+<div><img src="/assets/f194948800.jpg" width="220"/></div>{: .right}
 Hi, I'm moving to the Gold Coast.
 
 
@@ -19,15 +19,9 @@ I'm 23, from New Zealand, and I've been in Brisbane for the last four years.
 I studied computer science at [UQ](http://www.uq.edu.au).
 I have a lovely girlfriend in Brisbane but she won't be coming with me, so I'll be visiting her on weekends.
 
-I'm starting a graduate position at IBM in **Southport** on **8 February 2016**. Moving **mid-January** would be great.
+I'm starting a graduate position at IBM in **Southport** on **8 February 2016**. Moving **mid-January** would be great, but I can be flexible.
 
-### Interests
-* I like reading, history, music, and video games.
-* I've been playing a lot of Hearthstone and Team Fortress 2 lately, with some Kerbal Space Program thrown in.
-* I used to have a car - pretty keen on driving.
-* It's getting a bit warm for cycling, but in the cooler months I like my bike.
-* A lot of computer stuff, of course. Building infrastructure, parsing text, Vim.
-* Looking forward to living near the beach!
+I'm hoping to join an existing household or start a new one with 1-2 people.
 
 ## Where?
 Somewhere near the north end of Southport - that's where the office is, and I like walking to work.
@@ -64,6 +58,14 @@ Hopefully you'll be clean, respectful of others' space and happy to hang out and
 If you just want your space, that's fine too.
 
 I just want someone who'll wash up after they've finished dinner, you know?
+
+### Interests
+* I like reading, history, music, and video games.
+* I've been playing a lot of Hearthstone and Team Fortress 2 lately, with some Kerbal Space Program thrown in.
+* I used to have a car - pretty keen on driving.
+* It's getting a bit warm for cycling, but in the cooler months I like my bike.
+* A lot of computer stuff, of course. Building infrastructure, parsing text, Vim.
+* Looking forward to living near the beach!
 
 
 ## Say hello!
