@@ -18,7 +18,10 @@ When I posted this to Facebook, I wound up using their developer interface to se
 Here's the screenshot used in the Facebook link.
 ![Screenshot](/assets/c79da.png)
 
+Also, [Anthony over at warywolf][stealdalsstuff] took the code and made it his own with a Windows 95-style animation.
+
 [shadow-static-link]:   https://lord.geek.nz/shadow-static.html
 [vim-config]:           https://github.com/d-lord/dotfiles/blob/master/nvim/nvimrc
 [so-redirect-question]: http://stackoverflow.com/questions/503093/how-can-i-make-a-redirect-page-using-jquery
 [facebook-dev-shadow]:  https://developers.facebook.com/tools/debug/og/object/?q=lord.geek.nz%2Fshadow-static.html
+[stealdalsstuff]:       http://warywolf.net/code/stealdalsstuff/shadow.html
