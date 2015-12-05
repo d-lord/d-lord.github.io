@@ -1,0 +1,24 @@
+---
+layout: post
+title:	"Shadow: new toy"
+date:	2015-12-11 11:10:00
+published: true
+meta: >
+    Shadow toy
+categories:
+tags: javascript html5 toy jquery facebook
+---
+
+I was playing around in Javascript and wound up making a toy called [Shadow][shadow-static-link]. It's written in pure JS with HTML5 canvas, no need for jQuery.
+
+I'm wary of jQuery. For all that my [Vim config is loaded with plugins][vim-config], I don't like creating unnecessary dependencies in a project. A lot of webdev questions on StackOverflow seem to assume it's necessary or the fundamental programming language, particularly [this example on how to *redirect a page*][so-redirect-question].
+
+When I posted this to Facebook, I wound up using their developer interface to set custom attributes that would be displayed in the post. It winds up in OpenGraph `og:` properties in the header. [The interface is pretty neat][facebook-dev-shadow].
+
+Here's the screenshot used in the Facebook link.
+![Screenshot](/assets/c79da.png)
+
+[shadow-static-link]:   https://lord.geek.nz/shadow-static.html
+[vim-config]:           https://github.com/d-lord/dotfiles/blob/master/nvim/nvimrc
+[so-redirect-question]: http://stackoverflow.com/questions/503093/how-can-i-make-a-redirect-page-using-jquery
+[facebook-dev-shadow]:  https://developers.facebook.com/tools/debug/og/object/?q=lord.geek.nz%2Fshadow-static.html
