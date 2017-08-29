@@ -13,3 +13,6 @@ Session.vim
 
 # ruby
 Gemfile.lock
+
+# bloody macOS
+.DS_Store
