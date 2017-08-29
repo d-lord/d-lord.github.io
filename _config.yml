@@ -17,4 +17,4 @@ kramdown:
     math_engine: mathjax
 
 # other
-highlighter: pygments
+highlighter: rouge
