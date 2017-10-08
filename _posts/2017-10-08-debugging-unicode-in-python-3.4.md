@@ -76,7 +76,9 @@ Python 3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:57:36) [MSC v.1900 64 bit (AMD64)]
 
 Now we're getting somewhere. The terminal only has limited support for our fancy Unicode characters, but we can operate on them.
 
-It seems that rendering a box '□' is Windows' standard response to "unknown", not eg the replacement character '�' which often looks like '<?>'. [^1](Incidentally, I tried the Lucida Console, Consolas, DejaVu Sans Mono, and Source Code Pro fonts. They all showed the same boxes.)
+It seems that rendering a box '□' is Windows' standard response to "unknown", not eg the replacement character '�' which often looks like '<?>'. [^1]
+
+[^1]: Incidentally, I tried the Lucida Console, Consolas, DejaVu Sans Mono, and Source Code Pro fonts. They all showed the same boxes.
 
 So, why is one 128553 and the other 63017?
 
@@ -314,3 +316,7 @@ Useful techniques:
 - Wrap a character in `hex(ord())`` to view it in the same format as its Unicode identifier. Eg `hex(ord('😩')` will produce `'0x1f629'`
 - Python 3's strings use `\u` for 4-digit unicode hex, but `\U` for 8-digit hex.
 - Putting together test data and manipulating it with list comprehensions and print formatting is great for getting a picture of things.
+
+## References
+
+The spirit of experiment in this post was inspired by [Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming-ebook/dp/B0131L3PW4), which I would strongly recommend to anyone seeking to become confident in the language. Chapter 4 deals with Unicode.
