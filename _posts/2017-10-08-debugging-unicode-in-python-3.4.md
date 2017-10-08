@@ -313,7 +313,7 @@ What a rollercoaster. Let's summarise:
 
 Useful techniques:
 
-- Wrap a character in `hex(ord())`` to view it in the same format as its Unicode identifier. Eg `hex(ord('😩')` will produce `'0x1f629'`
+- Wrap a character in `hex(ord())` to view it in the same format as its Unicode identifier. Eg `hex(ord('😩')` will produce `'0x1f629'`
 - Python 3's strings use `\u` for 4-digit unicode hex, but `\U` for 8-digit hex.
 - Putting together test data and manipulating it with list comprehensions and print formatting is great for getting a picture of things.
 
