@@ -6,7 +6,7 @@ published: true
 excerpt: "This started as a series of notes entitled \"The Tinkerer's Guide to Unicode\", but I got stuck into analysing Windows' behaviour via Python."
 tags: python text unicode
 ---
-_This started as a series of notes entitled "The Tinkerer's Guide to Unicode", but I got stuck into analysing Windows' behaviour via Python._
+_This started as a series of notes entitled "The Tinkerer's Guide to Unicode", but I got stuck into analysing Windows' behaviour via Python. The steps involved may be useful to others, so I've written up the process._
 
 - ASCII: old-school character set favouring American-English characters. Uses 7 bits, so 128 entries from 0-127. [Full table](https://www.ascii-code.com/)
 - ANSI: newer character set and encoding, superset of ASCII using the eighth bit (so values 128-255). Different *code pages* determine what's in the eighth bit's range.
