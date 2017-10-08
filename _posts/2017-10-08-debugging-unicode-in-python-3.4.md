@@ -6,8 +6,6 @@ published: true
 excerpt: "This started as a series of notes entitled \"The Tinkerer's Guide to Unicode\", but I got stuck into analysing Windows' behaviour via Python."
 categories: python text unicode
 ---
-{% include weary_bar.html %}
-
 _This started as a series of notes entitled "The Tinkerer's Guide to Unicode", but I got stuck into analysing Windows' behaviour via Python._
 
 - ASCII: old-school character set favouring American-English characters. Uses 7 bits, so 128 entries from 0-127. [Full table](https://www.ascii-code.com/)
@@ -21,16 +19,16 @@ _This started as a series of notes entitled "The Tinkerer's Guide to Unicode", b
 
 We'll use `Đ` as a sample character. It has Unicode value `U+0110`.
 
-#### `charmap` for visual exploration
+### charmap for visual exploration
 Run `charmap`. Tick "advanced view" down the bottom. Ensure "Character set:" is "Unicode". _Don't_ use "Search for:" at the bottom; instead "Go to Unicode:" on the right. Entering "0110" will get you your U+0110 'Đ'. Press "Select" then "Copy", and paste into your application.
 ![charmap for Đ.png]()
 
 Copy+paste the character around everywhere.
 
-#### Direct input with `Alt`+`+0110`
+### Direct input with `Alt`+`+0110`
 I seem to have decimal input enabled by default, _but_, it's not Unicode input without a registry hack. Holding `Alt` then pressing the numpad `+` produces a bell. Holding `Alt` then typing `0110` on the numpad produces `n`, [which is decimal 110 in ASCII](https://www.sciencebuddies.org/science-fair-projects/references/table-of-8-bit-ascii-character-codes).
 
-[The registry hack)](https://superuser.com/q/1204586/352136) requires a reboot, but changes the behaviour above to enable `Alt`+`+` and now I'm alting unicode.
+[The registry hack](https://superuser.com/q/1204586/352136) requires a reboot, but changes the behaviour above to enable `Alt`+`+` and now I'm alting unicode.
 
 We can also insert non-numpad digits, ie A through F, as seen in `U+00CF` `Ï`.
 
@@ -43,7 +41,7 @@ Let's just... use [Emojipedia](https://emojipedia.org/weary-face/) for this one,
 
 ## Debugging characters
 
-Suppose you go to insert `U+1F629`, our weary friend, and get a box: ``. It's not `😩` because you have one of those, rendered correctly, in the same session. So what is it? How does it relate to `U+1F629`?
+Suppose you go to insert `U+1F629`, our weary friend, and get a box: ''. It's not '😩' because you have one of those, rendered correctly, in the same session. So what is it? How does it relate to `U+1F629`?
 
 ### Windows 10
 
@@ -51,7 +49,7 @@ A quick Google doesn't reveal any utilities.
 
 Fortunately, I've installed Bash on Windows and it has Python 3.4.3. I know the `ord()` function will tell you the Unicode code point for a single-character string, so let's try `ord("")`.
 
-It turns out, in this terminal, you can't enter characters with `Alt`, even our faithful `#`/`U+0023`. You can copy+paste "regular" text (for some value of "regular") but not `😩` or the box we're trying to debug. If you paste a sentence including those characters, they simply won't register.
+It turns out, in this terminal, you can't enter characters with `Alt`, even our faithful `#`/`U+0023`. You can copy+paste "regular" text (for some value of "regular") but not '😩' or the box we're trying to debug. If you paste a sentence including those characters, they simply won't register.
 
 ```python
 Python 3.4.3 (default, Nov 17 2016, 01:08:31)
@@ -78,7 +76,7 @@ Python 3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:57:36) [MSC v.1900 64 bit (AMD64)]
 
 Now we're getting somewhere. The terminal only has limited support for our fancy Unicode characters, but we can operate on them.
 
-It seems that rendering a box `□` is Windows' standard response to "unknown", not eg the replacement character `�` which often looks like `<?>`. [^1](Incidentally, I tried the Lucida Console, Consolas, DejaVu Sans Mono, and Source Code Pro fonts. They all showed the same boxes.)
+It seems that rendering a box '□' is Windows' standard response to "unknown", not eg the replacement character '�' which often looks like '<?>'. [^1](Incidentally, I tried the Lucida Console, Consolas, DejaVu Sans Mono, and Source Code Pro fonts. They all showed the same boxes.)
 
 So, why is one 128553 and the other 63017?
 
@@ -130,7 +128,7 @@ True # Just for safety's sake. We've got this under control.
 
 Incidentally, copy+paste is doing _much better_ than the terminal. Notepad++ is taking "boxes" from the terminal and displaying them correctly.
 
-Anyway, how do we go from `769` (from `ord()`) to our `U+0301` code point?
+Anyway, how do we go from '769' (from `ord()`) to our `U+0301` code point?
 
 ```python
 >>> 0x301
@@ -166,7 +164,7 @@ Oh. Right. I'd forgotten Unicode code points are specified in hex.
 
 *This is the key*. The first hex digit is dropped when entering the five-digit character into PowerShell. What about other characters?
 
-I went to write a loop test, but ran into something else. You can't simply specify `weary` as `\u1f629`.
+I went to write a loop test, but ran into something else. You can't simply specify 'weary' as `\u1f629`.
 
 ```python
 >>> '\u1f629'
