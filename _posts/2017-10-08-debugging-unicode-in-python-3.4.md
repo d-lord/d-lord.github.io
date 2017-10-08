@@ -4,7 +4,7 @@ title: "Debugging Unicode in Python 3.4"
 date: 2017-10-08 00:00
 published: true
 excerpt: "This started as a series of notes entitled \"The Tinkerer's Guide to Unicode\", but I got stuck into analysing Windows' behaviour via Python."
-categories: python text unicode
+tags: python text unicode
 ---
 _This started as a series of notes entitled "The Tinkerer's Guide to Unicode", but I got stuck into analysing Windows' behaviour via Python._
 
