@@ -5,7 +5,7 @@ date: 2017-10-23 00:00
 published: true
 excerpt: "aiohttp is pretty good."
 tags: python async aiohttp
-thumbnail:/assets/2017-10-23-python-profiling-results.png
+thumbnail: /assets/2017-10-23-python-profiling-results.png
 ---
 
 I'm in two social Slack teams at once. [UQCS](https://uqcs.slack.com) has a thousand members and a thousand custom emoji. The other has a few tens of members and no custom emoji.
