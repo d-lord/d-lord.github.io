@@ -31,6 +31,7 @@ Now that I've written it, tested it, profiled it, and used it, it might be worth
 Thanks to:
 
 [aiohttp's documentation](http://aiohttp.readthedocs.io/en/stable/)
+
 ["Illia"'s writeup of high-performance HTTP in Python](https://iliauk.com/2016/03/07/high-performance-python-sessions-async-multi-tasking/)
 
 Check out [the project on GitHub](https://github.com/d-lord/slackmoji-swarm/)!
