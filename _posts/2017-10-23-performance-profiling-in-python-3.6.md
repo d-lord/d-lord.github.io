@@ -26,6 +26,10 @@ Long story short, I wrote three versions: one naive, one reusing connections in 
 
 Now that I've written it, tested it, profiled it, and used it, it might be worth submitting as a pull request to the Emojinator project.
 
+## Update
+
+It's been submitted to [slack-emojinator](https://github.com/smashwilson/slack-emojinator)! I recommend the project in general as more fully-featured, and particularly once the aiohttp code goes in.
+
 ### Bibliography
 
 Thanks to:
