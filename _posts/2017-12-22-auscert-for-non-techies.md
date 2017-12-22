@@ -118,4 +118,6 @@ Apache modules `apache_auth_token_mod` and `mod_auth_f5_auth_token.cpp` allow po
 
 *Simon version*: The program which runs on a server so people can view your website and engage with your brand, could accidentally release information about how it talks to the program which protects it from bad guys. This doesn’t automatically let bad guys in, but it lets them sneak around and find holes.
 
+-------------------------------------------------------------------------------
+
 Merry Christmas, nerds.
