@@ -39,7 +39,7 @@ Excerpt: More precisely, the database contained over 3.5 billion details for ove
 
 The data included both personally identifiable information such as addresses, home details, contact information, or homeowner ethnicity, but also financial details such as mortgage status, financial histories, and purchase behavior.
 
-Simon version: A contractor put a lot of information into “the cloud” so anyone could see. People saw.
+*Simon version*: A contractor put a lot of information into “the cloud” so anyone could see. People saw.
 
 -------------------------------------------------------------------------------
 **Backdoor in Captcha Plugin Affects 300K WordPress Sites**
@@ -52,7 +52,7 @@ Author: Matt Barry
 
 Excerpt: If you have not read our previous post on Mason Soiza, I’d suggest you read that first, since he has a long history of buying WordPress plugins in order to place cloaked backlinks on his users’ sites. He then uses these backlinks to increase page rank in SERPs (Search Engine Results Pages) since only web crawlers such as Googlebot can read them.
 
-Simon version: Scumbag buys an existing program and makes it evil.
+*Simon version*: Scumbag buys an existing program and makes it evil.
 
 -------------------------------------------------------------------------------
 **Fixing Data Breaches Part I: Education**
