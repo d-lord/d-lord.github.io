@@ -8,7 +8,7 @@ tags: infosec humour
 thumbnail: "/assets/confused-cat.jpg"
 ---
 
-_Context: Dad was complaining that the [AusCERT Week in Review](https://www.auscert.org.au/blog/2017-12-22-auscert-week-review-22nd-december-2017) is hard to read._
+_Context: Dad was complaining that the [AusCERT Week in Review](https://www.auscert.org.au/blog/2017-12-22-auscert-week-review-22nd-december-2017) is hard to read. Don't take this too seriously. This writing reflects my personal opinions and not necessarily those of my employer._
 
 Hi nerds,
 
