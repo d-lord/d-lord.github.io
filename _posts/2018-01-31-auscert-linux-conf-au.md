@@ -1,7 +1,7 @@
 ---
 layout: post
 title:	"AusCERT at linux.conf.au 2018"
-date:	2017-01-31 23:10:00
+date:	2018-01-31 23:10:00
 published: true
 categories:
 tags: infosec
