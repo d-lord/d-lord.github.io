@@ -7,7 +7,7 @@ categories:
 tags: python performance
 ---
 
-Here's a toy program I wrote today, to try out the [`asyncio.Queue`](https://docs.python.org/3.6/library/asyncio-queue.html) object. One coroutine pushes an item to the queue every second, and two more fetch them from the queue and "process" them. Over time, the processors are too slow and the queue builds up.
+Here's a toy program I wrote today in Python 3.6, to try out the [`asyncio.Queue`](https://docs.python.org/3.6/library/asyncio-queue.html) object. One coroutine pushes an item to the queue every second, and two more fetch them from the queue and "process" them. Over time, the processors are too slow and the queue builds up.
 
 Of special note is the fact that the two processors never get the same item. That's pretty neat when you think about it.
 
