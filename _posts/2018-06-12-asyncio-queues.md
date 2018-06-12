@@ -7,9 +7,9 @@ categories:
 tags: python performance
 ---
 
-Here's a toy program I wrote today, to try out the `asyncio.Queue` object. One coroutine pushes an item to the queue every second, and two more fetch them from the queue and "process" them. Over time, the processors are too slow and the queue builds up.
+Here's a toy program I wrote today, to try out the [`asyncio.Queue`](https://docs.python.org/3.6/library/asyncio-queue.html) object. One coroutine pushes an item to the queue every second, and two more fetch them from the queue and "process" them. Over time, the processors are too slow and the queue builds up.
 
-Of special note is the fact that the two processors never get the same object. That's pretty neat when you think about it.
+Of special note is the fact that the two processors never get the same item. That's pretty neat when you think about it.
 
 And it's all a single thread! If these processors were based on I/O, you could run a lot more than two in parallel.
 
@@ -61,5 +61,12 @@ Sample output:
 
 As always, a huge thanks to [Dash](https://kapeli.com/dash) for making it easy to explore random libraries. And to a lesser extent, [Alfred](https://www.alfredapp.com) for providing lookups almost at the speed of thought.
 
-![Screenshot of Alfred showing Dash search results](/assets/alfred-dash.png)
-![Screenshot of the Dash search in Alfred](/assets/dash-alfred.png)
+<figure>
+<img src="{{site.url}}/assets/alfred-dash.png" alt="Screenshot of Alfred showing Dash search results" />
+<figcaption>`⌥+space dash asyncio.queue` takes about a second to type if you know what you're after, and Alfred will populate the list smoothly.</figcaption>
+</figure>
+
+<figure>
+<img src="{{site.url}}/assets/dash-asyncio-queue.png" alt="Screenshot of the resulting search in Dash."/>
+<figcaption> Pressing `enter` brings up this handy interface in Dash with a ton of information and good keyboard navigation (although I'm still learning it!). </figcaption>
+</figure>
