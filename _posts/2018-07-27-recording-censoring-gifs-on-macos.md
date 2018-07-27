@@ -52,7 +52,9 @@ In the timeline view, drag the .png from "My Media" to above the video (not on t
 
 Click the image in the timeline view. Up the top right, in the video preview area, click the "video overlay settings" button and change the overlay type to "Picture in Picture" (mine defaulted to "Cutaway"). Change the effect type to "Swap", and the duration to 0s. Nothing is showing up yet, and that's fine.
 
-Click the "cropping" button in the video preview area. Change the "style" from "Ken Burns" to "Fit". ^1[This part drove me crazy the first time around.] Go back to "video overlay settings" and you'll find that your censor bars are visible, but they're the wrong size. Drag the overlay around and drag its corner to fill the screen. The bars should now be in place over the image.
+Click the "cropping" button in the video preview area. Change the "style" from "Ken Burns" to "Fit". [^1] Go back to "video overlay settings" and you'll find that your censor bars are visible, but they're the wrong size. Drag the overlay around and drag its corner to fill the screen. The bars should now be in place over the image.
+
+[^1]:[This part drove me crazy the first time around.]
 
 This is how it should look (excuse the blur):
 ![Screenshot of video overlay settings](/assets/picture_in_picture_settings.png)
