@@ -5,7 +5,7 @@ date:  2018-07-27 00:00
 published: true
 meta: >
   How to record your screen and turn it into an animated gif.
-thumbnail: '/assets/cropping-settings.png'
+thumbnail: '/assets/cropping_settings.png'
 categories:
 ---
 
