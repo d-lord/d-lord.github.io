@@ -3,6 +3,7 @@ layout: post
 title: "Recording & censoring gifs on macOS"
 date:  2018-07-27 00:00
 published: true
+thumbnail: '/assets/spam-gif-thumbnail.png'
 categories:
 ---
 
