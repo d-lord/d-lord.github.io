@@ -36,15 +36,15 @@ async def puller(queue: asyncio.Queue, name: str):
         queue.task_done()
 
 
-async def main(loop: asyncio.AbstractEventLoop):
+async def main():
     queue = asyncio.Queue()
-    tasks = [loop.create_task(t) for t in (pusher(queue), puller(queue, name='Fred'), puller(queue, name='George'))]
+    tasks = [asyncio.create_task(t) for t in (pusher(queue), puller(queue, name='Fred'), puller(queue, name='George'))]
     await tasks[0]
 
 
 if __name__ == '__main__':
     main_loop = asyncio.get_event_loop()
-    main_loop.run_until_complete(main(main_loop))
+    main_loop.run_until_complete(main())
 ```
 
 Sample output:
