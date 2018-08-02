@@ -6,6 +6,7 @@ published: true
 meta: >
     Shadow toy
 categories:
+thumbnail: /assets/c79da.png
 tags: javascript html5 toy jquery facebook
 ---
 
