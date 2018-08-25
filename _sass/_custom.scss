@@ -6,15 +6,20 @@
 
 .right {
     float: right;
-    //width: 300px;
     border:4px solid #aaaaaa;
     padding: 0px;
+    margin-left: 10px;
 }
 
 .right-image {
     float: right;
     width: 300px;
-    padding-left: 10px;
+    margin-left: 10px;
+    margin-bottom: 1em;
+}
+
+.image-border {
+    border: 4px solid #aaaaaa;
 }
 
 table {
