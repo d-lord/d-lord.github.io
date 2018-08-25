@@ -45,7 +45,7 @@ Initial impression: it's very loud, very large, and very comfortable. I'd never 
 
 The guy at the Hertz gate seemed thrilled that I was taking it out - old mate practically high-fived me when I rolled down the window. After a day of Nissan X-Trails, I guess hearing a muscle car fire up in a concrete garage would get the blood pumping.
 
-It's also full of technology. The digital dashboard is crisp and responsive (and fancy!), the Sync 3 infotainment system is clean and effective, and the ventilated seats are the bee's butts. The reversing camera has a very wide angle, which is perfect for reversing out of angle parking into the street. The adaptive cruise control and lane-keep assist are nifty. And it's got sexy LED headlights and indicators, which should be standard on every car with any semblance of prestige.
+It's also full of technology. The digital dashboard is crisp and responsive (and fancy!), the Sync 3 infotainment system is clean and effective, and the ventilated seats are the bees' butts. The reversing camera has a very wide angle, which is perfect for reversing out of angle parking into the street. The adaptive cruise control and lane-keep assist are nifty. And it's got sexy LED headlights and indicators, which should be standard on every car with any semblance of prestige.
 
 ![Photo of the dash.](/assets/mustang_wheel_web.jpg){:.center-image}
 
@@ -91,9 +91,9 @@ Renting a Mustang for the day is a great idea if you love cars, but I couldn't t
 # Return to normality
 
 After hopping back in the Golf:
-- It don't feel crippled or sluggish. Even an economy car has plenty of go for suburban driving.
+- It doesn't feel crippled or sluggish. Even an economy car has plenty of go for suburban driving.
 - The seats don't feel as comfortable or cossetting.
-- But it's a lot quieter and more relaxing in the cabin.
+- It's a lot quieter and more relaxing in the cabin.
 - Parking is so, so much easier. The Golf's turning circle is pretty disappointing for a compact hatchback, but the Mustang sets the bar for difficulty.
 - The car doesn't feel **special**. Being in the Mustang feels like an event, and other drivers know it. Golfs just blend in.
 - Range is about 800km rather than 450km, and on a smaller tank.
@@ -104,10 +104,12 @@ All up: looking pretty good. The Mustang hasn't ruined the daily.
 
 Hertz let you have it for a proper day. I picked it up at 8am and returned it a bit before 10pm, and could probably have pushed it later.
 
-They've got a few Mustangs at the airport depot, in red or white.
+They've got a few Mustangs at the airport depot, in red or white. It'd be great if you could pick it up from the city and skip going to the airport, but that doesn't seem to be an option.
 
-Their booking system is horrendous, so good luck.
-![screenshot of the route?]()
+Unlimited km, so just fill up the tank on your way back - within 15km of the airport - and you're good to go.
+
+Everyone I spoke to was very helpful. Their online booking system is horrendous, though, so good luck.
+![screenshot of the route](/assets/mustang_route.png){:.center-image}
 
 # Budget: room for improvement
 
