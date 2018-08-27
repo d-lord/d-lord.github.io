@@ -11,4 +11,5 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
   <meta property="og:image" content="{% if page.thumbnail %}{{ page.thumbnail | prepend: site.baseurl | prepend: site.url | prepend: "https://"}}{% else %}{{ site.baseurl | prepend: site.url | prepend: "https://" | append: "/assets/tower_full.png" }}{% endif %}">
   <meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% endif %}">
+  {% include analytics.html %}
 </head>
