@@ -1,7 +1,7 @@
 ---
 layout: post
 title:	"A dream car on a budget"
-excerpt: "Turns out: You can pack a picnic and spent all day behind the wheel of a V8 Mustang GT for $400, if you live in the right corner of the world."
+excerpt: "Turns out: You can pack a picnic and spend all day behind the wheel of a V8 Mustang GT for $400, if you live in the right corner of the world."
 date:	2018-08-22 00:00:00
 published: true
 categories:
@@ -15,7 +15,7 @@ I've always been an optimiser.
 
 If you're a driving enthusiast like me, you'll have looked through a lot of expensive driving experiences. You can drive a V8 racecar for four laps of a track in Sydney for $300, or seven laps for $425. Or you can drive a Lamborghini for 15km along the Mornington Peninsula for $100, or a Ferrari for an hour for $375. I took a six-hour Volkswagen Driving Experience for $400 - a series of cars and exercises on a closed course - and thought that was pretty good. Compared to a $1,250 day trip with some supercars, it *is* pretty good.
 
-Turns out: For $400, you can pack a picnic and spent all day behind the wheel of a V8 Mustang GT, if you live in the right corner of the world.
+Turns out: For $400, you can pack a picnic and spend all day behind the wheel of a V8 Mustang GT, if you live in the right corner of the world.
 
 Here it is. A $70,000 car, with a 5.0-litre engine, making 450 horsepower, with only 800km on the clock.
 
