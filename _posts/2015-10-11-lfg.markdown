@@ -2,7 +2,7 @@
 layout: post
 title:	"Looking for a housemate"
 date:	2015-10-11 11:10:00
-published: true
+published: false
 meta: >
     Housemate ad
 categories:
