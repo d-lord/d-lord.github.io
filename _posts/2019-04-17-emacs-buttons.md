@@ -54,7 +54,7 @@ Now all the CVEs in the document are highlighted and clickable! Note that I've m
 [interactive is a cool macro](https://www.gnu.org/software/emacs/manual/html_node/elisp/Using-Interactive.html) and this lets you invoke the function interactively, with buffer names automatically suggested/completed by Emacs.
 
 ```elisp
-(while (re-search forward ...))
+(while (re-search-forward ...))
 ```
 Nice, easy way to iterate over matching text. You can use [match-beginning and match-end](https://www.gnu.org/software/emacs/manual/html_node/elisp/Simple-Match-Data.html) to get the range of the match.
 
