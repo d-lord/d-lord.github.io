@@ -1,7 +1,7 @@
 ---
 layout: post
 title:	"Making Emacs buttons with CVE IDs"
-excerpt: "Adventures with buttons in Emacs."
+excerpt: "Adventures in customising Emacs."
 date:	2019-04-17 00:00:00
 published: true
 categories:
