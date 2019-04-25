@@ -5,7 +5,7 @@ excerpt: "Adventures in customising Emacs."
 date:	2019-04-25 00:00:00
 published: true
 categories:
-thumbnail: /assets/emacs_cve_after.png
+thumbnail: /assets/emacs-sample-bulletins-mode.png
 tags: emacs spacemacs
 ---
 
