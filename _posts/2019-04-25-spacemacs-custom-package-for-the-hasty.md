@@ -42,7 +42,7 @@ Type `SPC f e R` to reload your `~/.spacemacs` configuration.
 
 Try typing `M-x bulletins-mode/sample-function RET`. If you see your function and it runs correctly, then congratulations, you're sorted!
 
-If you don't, type `C-x b`, visit the `*Messages*` buffer, and look for error messages containing `bulletins-mode`.
+If you don't, type `SPC b b`, visit the `*Messages*` buffer, and look for error messages containing `bulletins-mode`.
 
 ## What just happened?
 
