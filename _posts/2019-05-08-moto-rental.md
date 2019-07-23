@@ -6,6 +6,8 @@ tags: motorbike
 published: true
 ---
 
+![The MT-07 at a distant park.](/assets/mt_07_moggill.png){:.center-image}
+
 "Try to take off without the throttle for a bit," advised the guy at the bike shop. "We've had someone flip this before - we reckon he stalled it a few times then revved it and dumped the clutch."
 
 As parting words go, there have been more reassuring.
