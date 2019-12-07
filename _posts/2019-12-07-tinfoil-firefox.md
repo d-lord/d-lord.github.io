@@ -5,7 +5,7 @@ excerpt: "Firefox is a lovely browser. But there are a few default behaviours wh
 published: true
 ---
 
-Firefox is a lovely browser. It's quick, has good extension support, and its developers have a much better attitude to privacy than [its main competitor](link to browser stats showing Chrome winning).
+Firefox is a lovely browser. It's quick, has good extension support, and its developers have a much better attitude to privacy than [its main competitor](https://en.wikipedia.org/wiki/Usage_share_of_web_browsers#/media/File:StatCounter-browser-ww-monthly-200901-201905.png).
 
 There are a few default behaviours which are tuned for user-friendliness instead of caution.
 
@@ -26,7 +26,7 @@ I do this a lot by typing **fa** to go to Facebook, but pressing enter before it
 - double-click it and the row will change value to `false` and the text will turn bold to show it's been modified
 - test it by opening a new tab, typing `foo` into your address bar, and expect a failure result like this:
 
-![](/assets/firefox_fallback_search_disabled_error.png)
+![Screenshot of Firefox error page: "Please check that the URL is correct and try again."](/assets/firefox_fallback_search_disabled_error.png)
 
 That's better.
 
@@ -37,7 +37,7 @@ We just disabled searches from the address bar, but searches are useful. Let's a
 
 Open Firefox's preferences (Windows: **Tools -> Options**, Mac: **⌘+comma**), click Search on the left, and click "Add search bar in toolbar".
 
-![](/assets/firefox_add_search_bar.png)
+![Screenshot of Firefox settings pane and pointing to "Add search bar in toolbar"](/assets/firefox_add_search_bar.png)
 
 
 ## Extensions
