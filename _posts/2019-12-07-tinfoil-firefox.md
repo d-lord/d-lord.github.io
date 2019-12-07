@@ -41,7 +41,8 @@ Open Firefox's preferences (Windows: **Tools -> Options**, Mac: **⌘+comma**), 
 
 Pro tip: if you click the magnifying glass in the search bar, you see those icons at the bottom? You can type a search query and press (Windows: **ctrl+down**, Mac: **opt+down**) to search a specific site.
 
-![Screenshot of Firefox search showing the Wikipedia engine chosen](/assets/firefox_use_one_click_search.png)
+![Screenshot of Firefox search showing the Wikipedia engine chosen](/assets/firefox_use_one_click_search.png){:.max-width-256}
+
 
 ## Extensions
 
