@@ -5,6 +5,10 @@ excerpt: "iCloud is not as smart as it should be and can't be configured enough 
 published: true
 ---
 
+**Update: It seems that this isn't a reliable solution**. [It can be done in iCloud for Windows, but not for macOS](https://support.apple.com/en-au/guide/icloud/mm17d7e476fc/icloud).
+
+<hr>
+
 iCloud on macOS has a helpful button labelled "Optimise Mac Storage". It's good if you have limited space on your Mac - it'll copy your Desktop and Documents folders in the cloud and only keep the most recent files on your computer.
 
 It's also not the brightest. I have an [Alfred preferences file](https://alfredapp.com) which was created in 2013, and I keep it in iCloud to sync across multiple Macs. iCloud keeps deleting the local copy, presumably because it's an old file. You can force it to download it again by clicking this cloud icon, but it doesn't learn, and next time it sweeps, it'll delete it again:
