@@ -17,3 +17,6 @@ vendor/
 
 # bloody macOS
 .DS_Store
+
+# me
+notes.txt
