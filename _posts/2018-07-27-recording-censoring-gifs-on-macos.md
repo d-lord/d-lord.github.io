@@ -5,7 +5,7 @@ date:  2018-07-27 00:00
 published: true
 excerpt: >
   How to record your screen and turn it into an animated gif.
-thumbnail: '/assets/cropping_settings.png'
+thumbnail: '/assets/images/cropping_settings.png'
 categories:
 ---
 
@@ -57,9 +57,9 @@ Click the "cropping" button in the video preview area. Change the "style" from "
 [^1]:[This part drove me crazy the first time around.]
 
 This is how it should look (excuse the blur):
-![Screenshot of video overlay settings](/assets/picture_in_picture_settings.png)
+![Screenshot of video overlay settings](/assets/images/picture_in_picture_settings.png)
 --------
-![Screenshot of cropping settings](/assets/cropping_settings.png)
+![Screenshot of cropping settings](/assets/images/cropping_settings.png)
 
 Click the play and rewind buttons a couple of times. The video should be animated as normal, but with your censor bars in place.
 
@@ -96,4 +96,4 @@ Share your gif with the world!
 
 Here's mine:
 
-![An animated gif recorded from my screen.](/assets/animated_spam.gif)
+![An animated gif recorded from my screen.](/assets/images/animated_spam.gif)

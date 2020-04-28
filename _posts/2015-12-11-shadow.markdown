@@ -6,7 +6,7 @@ published: true
 meta: >
     Shadow toy
 categories:
-thumbnail: /assets/c79da.png
+thumbnail: /assets/images/c79da.png
 tags: javascript html5 toy jquery facebook
 ---
 
@@ -17,7 +17,7 @@ I'm wary of jQuery. For all that my [Vim config is loaded with plugins][vim-conf
 When I posted this to Facebook, I wound up using their developer interface to set custom attributes that would be displayed in the post. It winds up in OpenGraph `og:` properties in the header. [The interface is pretty neat][facebook-dev-shadow].
 
 Here's the screenshot used in the Facebook link.
-![Screenshot](/assets/c79da.png)
+![Screenshot](/assets/images/c79da.png)
 
 Also, [Anthony over at warywolf][stealdalsstuff] took the code and made it his own with a Windows 95-style animation.
 

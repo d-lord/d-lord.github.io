@@ -62,11 +62,11 @@ Sample output:
 As always, a huge thanks to [Dash](https://kapeli.com/dash) for making it easy to explore random libraries. And to a lesser extent, [Alfred](https://www.alfredapp.com) for providing lookups almost at the speed of thought.
 
 <figure>
-<img src="/assets/alfred-dash.png" alt="Screenshot of Alfred showing Dash search results" />
+<img src="/assets/images/alfred-dash.png" alt="Screenshot of Alfred showing Dash search results" />
 <figcaption>`⌥+space dash asyncio.queue` takes about a second to type if you know what you're after, and Alfred will populate the list smoothly.</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/dash-asyncio-queue.png" alt="Screenshot of the resulting search in Dash."/>
+<img src="/assets/images/dash-asyncio-queue.png" alt="Screenshot of the resulting search in Dash."/>
 <figcaption> Pressing `enter` brings up this handy interface in Dash with a ton of information and good keyboard navigation (although I'm still learning it!). </figcaption>
 </figure>

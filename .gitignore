@@ -1,6 +1,7 @@
 # jekyll
 _site
 .sass-cache
+_theme_packages
 
 # vim
 # https://raw.github.com/github/gitignore/8559c8a381a26e596fc3cf76eeb99df2a62eebf8/Global/vim.gitignore
@@ -14,6 +15,8 @@ Session.vim
 # ruby
 Gemfile.lock
 vendor/
+.rbenv-version
+.rvmrc
 
 # bloody macOS
 .DS_Store

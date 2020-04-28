@@ -1,14 +1,16 @@
 ---
 title: "Reflections on an MT-07"
 date: 2019-05-08 00:00:00
-thumbnail: /assets/mt_07_moggill.png
+thumbnail: /assets/images/mt_07_moggill.png
 tags: motorbike
 published: true
+excerpt: >
+    "Try to take off without the throttle for a bit," advised the owner of the bike shop. "We've had someone flip this before - we reckon he stalled it a few times then revved it and dumped the clutch."
 ---
 
-![The MT-07 at a distant park.](/assets/mt_07_moggill.png){:.center-image}
+![The MT-07 at a distant park.](/assets/images/mt_07_moggill.png){:.center-image}
 
-"Try to take off without the throttle for a bit," advised the guy at the bike shop. "We've had someone flip this before - we reckon he stalled it a few times then revved it and dumped the clutch."
+"Try to take off without the throttle for a bit," advised the owner of the bike shop. "We've had someone flip this before - we reckon he stalled it a few times then revved it and dumped the clutch."
 
 As parting words go, there have been more reassuring.
 

@@ -5,11 +5,11 @@ excerpt: "Turns out: You can pack a picnic and spend all day behind the wheel of
 date:	2018-08-22 00:00:00
 published: true
 categories:
-thumbnail: /assets/thumb-mustang-tail-lights.jpg
+thumbnail: /assets/images/thumb-mustang-tail-lights.jpg
 tags: cars
 ---
 
-![Brake lights on the Mustang.](/assets/mustang_tail_lights_web.jpg){:.center-image}
+![Brake lights on the Mustang.](/assets/images/mustang_tail_lights_web.jpg){:.center-image}
 
 I've always been an optimiser. 
 
@@ -19,7 +19,7 @@ Turns out: For $400, you can pack a picnic and spend all day behind the wheel of
 
 Here it is. A $70,000 car, with a 5.0-litre engine, making 450 horsepower, with only 800km on the clock.
 
-![Front view of the Mustang.](/assets/mustang_front_web.jpg){:.center-image}
+![Front view of the Mustang.](/assets/images/mustang_front_web.jpg){:.center-image}
 
 # Budget
 Before we go any further, here's the spending for the day:
@@ -41,7 +41,7 @@ We covered approximately 500km, giving the trip a fuel consumption rating of ~11
 
 ### So what's it like?
 
-![One headlight.](/assets/mustang_headlight_web.jpg){: .right-image}
+![One headlight.](/assets/images/mustang_headlight_web.jpg){: .right-image}
 Initial impression: it's very loud, very large, and very comfortable. I'd never spent much time driving anything with >120 horsepower or over 1300kg, so 450hp and 1700kg is a huge jump.
 
 The guy at the Hertz gate seemed thrilled that I was taking it out - old mate practically high-fived me when I rolled down the window. After a day of Nissan X-Trails, I guess hearing a muscle car fire up in a concrete garage would get the blood pumping.
@@ -66,7 +66,7 @@ I started the day scared of the car, and ended the day less scared. Not comforta
 
 # What else?
 
-![Photo of the dash.](/assets/mustang_wheel_web.jpg){:.center-image}
+![Photo of the dash.](/assets/images/mustang_wheel_web.jpg){:.center-image}
 
 Ford have done a good job mixing digital and physical controls in the infotainment system. It's worth playing with the centre stack and dashboard for ten minutes if you're a gadget nerd. Apparently you can change the exhaust from "earth-shaking" to merely "colossal", but... why?
 
@@ -80,7 +80,7 @@ If you're spending all day with a car, make sure you get out and take a break ev
 
 # Return to normality
 
-<img src="/assets/sapphire_crop.jpg" width="400"/>{: .right-image}
+<img src="/assets/images/sapphire_crop.jpg" width="400"/>{: .right-image}
 
 After hopping back in the Golf:
 - It doesn't feel crippled or sluggish. Even an economy car has plenty of go for suburban driving.
@@ -101,7 +101,7 @@ They've got a few Mustangs at the airport depot, in red or white. It'd be great 
 Unlimited km, so just fill up the tank on your way back - within 15km of the airport - and you're good to go.
 
 Everyone I spoke to was very helpful. Their online booking system is horrendous, though, so good luck.
-![screenshot of the route](/assets/mustang_route.png){:.center-image}
+![screenshot of the route](/assets/images/mustang_route.png){:.center-image}
 
 # Budget: room for improvement
 
@@ -119,4 +119,4 @@ Muscle cars use a lot of fuel, make a lot of noise and cost a lot of money. I'd 
 
 Renting a Mustang is a great idea if you love cars, but I couldn't take one home.
 
-![Rear view of the car.](/assets/mustang_rear_web.jpg){:.center-image}
+![Rear view of the car.](/assets/images/mustang_rear_web.jpg){:.center-image}

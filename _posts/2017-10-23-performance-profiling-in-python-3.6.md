@@ -5,7 +5,7 @@ date: 2017-10-23 00:00
 published: true
 excerpt: "aiohttp is pretty good."
 tags: python async aiohttp
-thumbnail: /assets/2017-10-23-python-profiling-results.png
+thumbnail: /assets/images/2017-10-23-python-profiling-results.png
 ---
 
 I'm in two social Slack teams at once. [UQCS](https://uqcs.slack.com) has a thousand members and a thousand custom emoji. The other has a few tens of members and no custom emoji.
@@ -22,7 +22,7 @@ Scalability is important, because 1,000 emoji is actually quite a lot - the naiv
 
 Long story short, I wrote three versions: one naive, one reusing connections in `requests`, and one full rewrite with `aiohttp` ("asyncio http"). The results speak for themselves.
 
-![Progressive improvement in runtime](/assets/2017-10-23-python-profiling-results.png)
+![Progressive improvement in runtime](/assets/images/2017-10-23-python-profiling-results.png)
 
 Now that I've written it, tested it, profiled it, and used it, it might be worth submitting as a pull request to the Emojinator project.
 

@@ -1,11 +1,10 @@
 ---
 layout: post
 title:	"Making Emacs buttons with CVE IDs"
-excerpt: "Adventures in customising Emacs."
+excerpt: "Here's my latest Emacs tweak: turning all CVE identifiers in a document into buttons."
 date:	2019-04-17 00:00:00
 published: true
-categories:
-thumbnail: /assets/emacs_cve_after.png
+thumbnail: /assets/images/emacs_cve_after.png
 tags: emacs
 ---
 
@@ -39,11 +38,11 @@ Here's my latest, for Emacs on macOS:
 
 With this, you can go from:
 
-![Screenshot of before.](/assets/emacs_cve_before.png)
+![Screenshot of before.](/assets/images/emacs_cve_before.png)
 
 To:
 
-![Screenshot of after.](/assets/emacs_cve_after.png)
+![Screenshot of after.](/assets/images/emacs_cve_after.png)
 
 Now all the CVEs in the document are highlighted and clickable! Note that I've moused over CVE-2018-18498 and can middle-click it (or select it with the keyboard and press Enter) to open [its corresponding CVE page](https://nvd.nist.gov/vuln/detail/CVE-2018-18498). Yay!
 

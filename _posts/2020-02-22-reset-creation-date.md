@@ -14,12 +14,12 @@ iCloud on macOS has a helpful button labelled "Optimise Mac Storage". It's good 
 It's also not the brightest. I have an [Alfred preferences file](https://alfredapp.com) which was created in 2013, and I keep it in iCloud to sync across multiple Macs. iCloud keeps deleting the local copy, presumably because it's an old file. You can force it to download it again by clicking this cloud icon, but it doesn't learn, and next time it sweeps, it'll delete it again:
 
 <figure>
-<img src="/assets/alfred-settings-desynced.png" alt="Screenshot of Finder showing a cloud icon next to the Alfred preferences file to indicate that it's on the cloud" />
+<img src="/assets/images/alfred-settings-desynced.png" alt="Screenshot of Finder showing a cloud icon next to the Alfred preferences file to indicate that it's on the cloud" />
 <figcaption>The cloud button means "I want it", but apparently not "I'll still want it in an hour".</figcaption>
 </figure>
 
 So when you try to use Alfred, it shows this error:
-<img src="/assets/alfred-error-no-preferences.png" alt="Screenshot: Alfred showing an error message: 'You have a sync location set, but the preferences package is missing'" />
+<img src="/assets/images/alfred-error-no-preferences.png" alt="Screenshot: Alfred showing an error message: 'You have a sync location set, but the preferences package is missing'" />
 
 You might think "oh, I'll just configure iCloud to preserve that folder" but, unlike every other cloud sync product in 2020, it can't do that.
 

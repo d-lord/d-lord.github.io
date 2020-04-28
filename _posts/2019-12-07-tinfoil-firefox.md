@@ -26,7 +26,7 @@ I do this a lot by typing **fa** to go to Facebook, but pressing enter before it
 - double-click it and the row will change value to `false` and the text will turn bold to show it's been modified
 - test it by opening a new tab, typing `foo` into your address bar, and expect a failure result like this:
 
-![Screenshot of Firefox error page: "Please check that the URL is correct and try again."](/assets/firefox_fallback_search_disabled_error.png)
+![Screenshot of Firefox error page: "Please check that the URL is correct and try again."](/assets/images/firefox_fallback_search_disabled_error.png)
 
 That's better.
 
@@ -37,11 +37,11 @@ We just disabled searches from the address bar, but searches are useful. Let's a
 
 Open Firefox's preferences (Windows: **Tools -> Options**, Mac: **⌘+comma**), click Search on the left, and click "Add search bar in toolbar".
 
-![Screenshot of Firefox settings pane and pointing to "Add search bar in toolbar"](/assets/firefox_add_search_bar.png)
+![Screenshot of Firefox settings pane and pointing to "Add search bar in toolbar"](/assets/images/firefox_add_search_bar.png)
 
 Pro tip: if you click the magnifying glass in the search bar, you see those icons at the bottom? You can type a search query and press (Windows: **ctrl+down**, Mac: **opt+down**) to search a specific site.
 
-![Screenshot of Firefox search showing the Wikipedia engine chosen](/assets/firefox_use_one_click_search.png){:.max-width-256}
+![Screenshot of Firefox search showing the Wikipedia engine chosen](/assets/images/firefox_use_one_click_search.png){:.max-width-256}
 
 
 ## Extensions

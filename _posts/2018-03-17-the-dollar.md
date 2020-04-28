@@ -4,12 +4,12 @@ title:	"Would you rather have the dollar?"
 date:	2018-03-17 00:00:00
 published: true
 categories:
-thumbnail: /assets/monty-burns-dollar-thumbnail.png
+thumbnail: /assets/images/monty-burns-dollar-thumbnail.png
 excerpt: 'Do I four-hundred-dollars want this?'
 tags: money lifestyle
 ---
 
-![Screenshot of Monty Burns looking at a dollar bill.](/assets/monty-burns-dollar.png)
+![Screenshot of Monty Burns looking at a dollar bill.](/assets/images/monty-burns-dollar.png)
 
 In these millennial times, "FOMO" is all the rage[^2]. If all of your techie friends are buying $400 noise-cancelling headphones, and then raving about them, you've gotta wonder if you're missing out. But $400 is a lot of money to spend!
 

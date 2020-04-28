@@ -9,7 +9,7 @@ categories:
 tags: goldcoast house living
 ---
 
-<div><img src="/assets/f194948800.jpg" width="220"/></div>{: .right}
+<div><img src="/assets/images/f194948800.jpg" width="220"/></div>{: .right}
 Hi, I'm moving to the Gold Coast.
 
 
