@@ -4,7 +4,6 @@ title:	"A dream car on a budget"
 excerpt: "Turns out: You can pack a picnic and spend all day behind the wheel of a V8 Mustang GT for $400, if you live in the right corner of the world."
 date:	2018-08-22 00:00:00
 published: true
-categories:
 thumbnail: /assets/images/thumb-mustang-tail-lights.jpg
 tags: cars
 ---

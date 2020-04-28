@@ -3,7 +3,8 @@ layout: post
 title:	"AusCERT Week in Review for Non-Techies"
 date:	2017-12-21 23:10:00
 published: true
-categories:
+excerpt: >
+  Dad was complaining that the AusCERT Week in Review is hard to read, so I wrote a new version to be a little more user-friendly.
 tags: infosec humour
 thumbnail: "/assets/images/confused-cat.jpg"
 ---

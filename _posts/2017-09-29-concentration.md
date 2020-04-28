@@ -3,7 +3,7 @@ layout: post
 title:  "Concentration"
 date:   2017-09-29 00:00
 published: true
-categories: lifestyle work
+tags: lifestyle work
 ---
 
 Lying in bed at night:

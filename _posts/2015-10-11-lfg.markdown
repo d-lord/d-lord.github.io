@@ -5,7 +5,6 @@ date:	2015-10-11 11:10:00
 published: false
 meta: >
     Housemate ad
-categories:
 tags: goldcoast house living
 ---
 
