@@ -78,6 +78,9 @@ plugins:
 # Put your favicon.ico into `assets/` directory.
 favicon: /assets/favicon.png
 
+# Custom
+default_og_image: /assets/images/tower_mini.png
+
 # Set default keywords (Use a comma to separate)
 keywords: "Jekyll, NexT"
 

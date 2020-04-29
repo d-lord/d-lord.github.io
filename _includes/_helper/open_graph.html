@@ -1,7 +1,7 @@
 {% comment %} open_graph(twitter_id, google_plus, fb_admins, fb_app_id) {% endcomment %}
 {% capture open_graph %}
-  {% assign default_images = '' | split: '' %}
-  {% assign images = page.photos | default: default_images %}
+  {% assign default_images = site.default_og_image %}
+  {% assign images = page.thumbnail | default: default_images %}
   {% assign page_content = page.content %}
   {% assign description = page.description | default: page.excerpt | default: page_content | default: site.description %}
 
