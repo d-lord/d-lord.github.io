@@ -3,7 +3,7 @@ layout: post
 title:	"Would you rather have the dollar?"
 date:	2018-03-17 00:00:00
 published: true
-thumbnail: /assets/images/monty-burns-dollar-thumbnail.png
+thumbnail: assets/images/monty-burns-dollar-thumbnail.png
 excerpt: 'Do I four-hundred-dollars want this?'
 tags: money lifestyle
 ---

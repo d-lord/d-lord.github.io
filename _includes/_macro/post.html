@@ -16,7 +16,12 @@
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="{{ site.author }}">
       <meta itemprop="description" content="{{ site.signature }}">
-      <meta itemprop="image" content="{% assign default_avatar = site.images | append: '/avatar.jpg' %}{{ post.thumbnail | default: site.og_image | default: site.avatar | default: default_avatar ) }}">
+      {% if post.thumbnail %}
+      {% assign image = post.thumbnail %}
+      {% else %}
+      {% assign image = site.images | append: '/' | append: site.default_og_image %}
+      {% endif %}
+      <meta itemprop="image" content="{{ image }}">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">

@@ -5,7 +5,7 @@ excerpt: "Now with a signal object and termination/cleanup."
 date:	2018-07-28 00:00:00
 published: true
 categories:
-thumbnail: /assets/thumb-more-asyncio-queues.png
+thumbnail: assets/thumb-more-asyncio-queues.png
 tags: python performance asyncio
 ---
 

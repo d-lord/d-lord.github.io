@@ -1,7 +1,10 @@
 {% comment %} open_graph(twitter_id, google_plus, fb_admins, fb_app_id) {% endcomment %}
 {% capture open_graph %}
-  {% assign default_images = site.default_og_image %}
-  {% assign images = page.thumbnail | default: default_images %}
+  {% if page.thumbnail %}
+  {% assign image = site.url | append: '/' | append: page.thumbnail %}
+  {% else %}
+  {% assign image = site.url | append: '/' | append: site.images | append: '/' | append: site.default_og_image %}
+  {% endif %}
   {% assign page_content = page.content %}
   {% assign description = page.description | default: page.excerpt | default: page_content | default: site.description %}
 
@@ -68,10 +71,10 @@
     <!--newline-->
   {% endif %}
 
-  {% for image in images %}
+  {% if image %}
     <meta property="og:image" content="{{ image }}">
     <!--newline-->
-  {% endfor %}
+  {% endif %}
 
   {% if updated %}
     <meta property="og:updated_time" content="{{ updated | date_to_xmlschema }}">
@@ -87,7 +90,7 @@
   {% endif %}
 
   {% if images.size != 0 %}
-    <meta name="twitter:image" content="{{ images[0] }}">
+    <meta name="twitter:image" content="{{ image }}">
     <!--newline-->
   {% endif %}
 

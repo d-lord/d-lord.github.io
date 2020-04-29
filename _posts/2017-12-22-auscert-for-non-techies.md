@@ -6,7 +6,7 @@ published: true
 excerpt: >
   Dad was complaining that the AusCERT Week in Review is hard to read, so I wrote a new version to be a little more user-friendly.
 tags: infosec humour
-thumbnail: "/assets/images/confused-cat.jpg"
+thumbnail: assets/images/confused-cat.jpg
 ---
 
 _Context: Dad was complaining that the [AusCERT Week in Review](https://www.auscert.org.au/blog/2017-12-22-auscert-week-review-22nd-december-2017) is hard to read. Don't take this too seriously. This writing reflects my personal opinions and not necessarily those of my employer._

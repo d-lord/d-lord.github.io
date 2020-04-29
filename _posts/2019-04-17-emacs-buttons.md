@@ -4,7 +4,7 @@ title:	"Making Emacs buttons with CVE IDs"
 excerpt: "Here's my latest Emacs tweak: turning all CVE identifiers in a document into buttons."
 date:	2019-04-17 00:00:00
 published: true
-thumbnail: /assets/images/emacs_cve_after.png
+thumbnail: assets/images/emacs_cve_after.png
 tags: emacs
 ---
 
