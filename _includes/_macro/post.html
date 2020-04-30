@@ -4,7 +4,7 @@
     {% assign headlessPost = true %}
   {% endif %}
 
-  {% assign post_class = 'post post-type-' | append: post.type | default: 'normal' %}
+  {% assign post_class = post.type | default: 'normal' | prepend: 'post post-type-' %}
   {% assign post_class = post_class | append: ' ' | append: post_extra_class | default: '' %}
   {% if post.sticky > 0 %}
     {% assign post_class = post_class | append: ' ' | append: 'post-sticky' %}
