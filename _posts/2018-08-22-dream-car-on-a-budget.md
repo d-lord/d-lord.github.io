@@ -38,7 +38,7 @@ Before we go any further, here's the spending for the day:
 
 We covered approximately 500km, giving the trip a fuel consumption rating of ~11L/100km.
 
-### So what's it like?
+# So what's it like?
 
 ![One headlight.](/assets/images/mustang_headlight_web.jpg){: .right-image}
 Initial impression: it's very loud, very large, and very comfortable. I'd never spent much time driving anything with >120 horsepower or over 1300kg, so 450hp and 1700kg is a huge jump.

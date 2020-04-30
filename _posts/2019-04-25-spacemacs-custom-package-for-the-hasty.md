@@ -14,7 +14,7 @@ Suppose you want to create a new minor mode called `bulletins-mode`, and you're 
 
 Here's how to rush through the process.
 
-## Make your own local package in Spacemacs
+# Make your own local package in Spacemacs
 
 | path | comment |
 |---|---|
@@ -24,7 +24,7 @@ Here's how to rush through the process.
 | `~/.spacemacs` | Scroll down to `dotspacemacs-additional-packages` and add `('bulletins-mode :location local)`. |
 | `~/.spacemacs` | Also scroll down to `dotspacemacs/user-config` and in the body, add `(require 'bulletins-mode)`. |
 
-### Example bulletins-mode.el code
+## Example bulletins-mode.el code
 ```elisp
 ;;;###autoload
 (defun bulletins-mode/sample-function ()
@@ -35,7 +35,7 @@ Here's how to rush through the process.
 (provide 'bulletins-mode)
 ```
 
-### Validation
+## Validation
 
 Type `SPC f e R` to reload your `~/.spacemacs` configuration.
 
@@ -43,7 +43,7 @@ Try typing `M-x bulletins-mode/sample-function RET`. If you see your function an
 
 If you don't, type `SPC b b`, visit the `*Messages*` buffer, and look for error messages containing `bulletins-mode`.
 
-## What just happened?
+# What just happened?
 
 The `private/` directory isn't tracked by Spacemacs' Git system. Inside it, `local/` is for storing local packages. So we created a `bulletins-mode/` folder for the package containing `bulletins-mode.el` for the code.
 
@@ -51,7 +51,7 @@ We then told `~/.spacemacs` to look for this package locally, and then told it t
 
 (Most of this is documented in the README.md files along the way, but the `:location local` bit is harder to find).
 
-## What next?
+# What next?
 
 OK, so this was a maximum-haste-minimum-complexity prototype. If it goes well, how should you do it "properly"?
 
