@@ -54,7 +54,7 @@
                   </span>
                 {% endif %}
                 <a class="post-title-link" href="{{ post.url | relative_url }}" itemprop="url">
-                {{ post.title | default: __.post.untitled }}
+                  {{ post.title | default: __.post.untitled }}
               </a>
             {% else %}{{ post.title }}{% endif %}
           {% endif %}
@@ -428,9 +428,11 @@
         {% if index_modulo_per_page == 0 %}
           {% assign isLast = true %}
         {% endif %}
+        {% comment turning this off as I don't want a distinct visual separator (margin is enough) %}
         {% unless isLast %}
           <div class="post-eof"></div>
         {% endunless %}
+        {% endcomment %}
       {% endif %}
     </footer>
   </article>
