@@ -8,7 +8,7 @@ thumbnail: assets/images/what_is_a_centrifuge_anyway.png
 tags: infosec uqcs
 ---
 
-In short, Stuxnet was a computer worm which notably damaged the Iranian nuclear facility known as Natanz. This talk covers the scientific and engineering background of the system that the worm disrupted.
+Stuxnet was a computer worm which notably damaged the Iranian nuclear facility known as Natanz. This talk for the UQ Computing Society (UQCS) covers the scientific and engineering background of the system that the worm disrupted.
 
 I see a lot of infosec talks which dive into the bits and bytes of a specific attack, and they're great for sharpening your skills, but I think there's a really under-served market for *context and history*. That's what this talk is for: it was inspired by a conversation on the UQ shuttle with my manager, when we were talking about Stuxnet, and I said "what _is_ a centrifuge, anyway?". Neither of us really knew, so I did a quick dive into the science, engineering and supply chains, and then a couple of days later, Mandy asked for a talk for the AISA end of year event :)
 
