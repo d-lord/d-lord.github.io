@@ -65,3 +65,7 @@ Driving a softened-up economy car with a turbocharger means you get used to pres
 # Wrapping up
 
 If you enjoyed this, check out the [Mustang](https://blog.lord.geek.nz/2018/08/22/dream-car-on-a-budget/) post too!
+
+The start mentioned at the start might have looked a bit like this, although the bike in the video has about four times the power.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Gpk-ACFRmIU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
