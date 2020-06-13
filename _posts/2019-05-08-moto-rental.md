@@ -8,7 +8,7 @@ excerpt: >
     "Try to take off without the throttle for a bit," advised the owner of the bike shop. "We've had someone flip this before - we reckon he stalled it a few times then revved it and dumped the clutch."
 ---
 
-![The MT-07 at a distant park.](/assets/images/mt_07_moggill.png){:.center-image}
+![The MT-07 at a distant park.](/assets/images/mt_07_moggill.jpg){:.center-image}
 
 "Try to take off without the throttle for a bit," advised the owner of the bike shop. "We've had someone flip this before - we reckon he stalled it a few times then revved it and dumped the clutch."
 
