@@ -1,7 +1,7 @@
 ---
 title: "Reflections on an MT-07"
 date: 2019-05-08 00:00:00
-thumbnail: assets/images/mt_07_moggill.png
+thumbnail: assets/images/mt_07_moggill_rounded.png
 tags: motorbike
 published: true
 excerpt: >
