@@ -7,6 +7,8 @@ published: true
 
 **Update: It seems that this isn't a reliable solution**. [It can be done in iCloud for Windows, but not for macOS](https://support.apple.com/en-au/guide/icloud/mm17d7e476fc/icloud).
 
+**Update 2: You can go to Settings → Apple ID → iCloud and disable "Optimise Mac Storage", if that tradeoff is worth it.**
+
 <hr>
 
 iCloud on macOS has a helpful button labelled "Optimise Mac Storage". It's good if you have limited space on your Mac - it'll copy your Desktop and Documents folders in the cloud and only keep the most recent files on your computer.
