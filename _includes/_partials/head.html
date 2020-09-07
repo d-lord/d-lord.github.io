@@ -50,14 +50,15 @@
   <meta name="360-site-verification" content="{{ site.qihu_site_verification }}" />
 {% endif %}
 
-
-{% if site.fancybox %}
-  {% assign fancybox_css_uri = site.vendors._internal | append: '/fancybox/source/jquery.fancybox.css?v=2.1.5' | relative_url %}
-  {% if site.vendors.fancybox_css %}
-    {% assign fancybox_css_uri = site.vendors.fancybox_css %}
+{% unless page.nofancybox %}
+  {% if site.fancybox %}
+    {% assign fancybox_css_uri = site.vendors._internal | append: '/fancybox/source/jquery.fancybox.css?v=2.1.5' | relative_url %}
+    {% if site.vendors.fancybox_css %}
+      {% assign fancybox_css_uri = site.vendors.fancybox_css %}
+    {% endif %}
+    <link href="{{ fancybox_css_uri }}" rel="stylesheet" type="text/css" />
   {% endif %}
-  <link href="{{ fancybox_css_uri }}" rel="stylesheet" type="text/css" />
-{% endif %}
+{% endunless %}
 
 {% include _partials/head/external-fonts.html %}
 
