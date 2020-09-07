@@ -5,7 +5,7 @@ excerpt: "I gave a talk for the UQ Computing Society, and here's the recording."
 date:	2020-03-30 00:00:00
 published: true
 thumbnail: assets/images/what_is_a_centrifuge_anyway.png
-tags: infosec uqcs
+tags: infosec uqcs talks
 ---
 
 Stuxnet was a computer worm which notably damaged the Iranian nuclear facility known as Natanz. This talk for the UQ Computing Society (UQCS) covers the scientific and engineering background of the system that the worm disrupted.
