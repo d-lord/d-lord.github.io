@@ -119,7 +119,7 @@ $(document).ready(function () {
   });
 
   $('.post-toc a').on('click', function (e) {
-    // e.preventDefault(); // dal: I *want* the anchor to appear in the URL, i.e. /tinfoil-firefox/#add-search-bar, and this prevents the #add-search-bar
+    e.preventDefault();
     var targetSelector = NexT.utils.escapeSelector(decodeURIComponent(this.getAttribute('href')));
     var offset = $(targetSelector).offset().top;
 
