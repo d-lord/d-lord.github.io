@@ -5,8 +5,8 @@ excerpt: "Firefox is a lovely browser. But there are a few default behaviours wh
 published: true
 ---
 
-{::options parse_block_html="true" /}
-<p class="update"> Updated for September 2020: added [the section on "browser.fixup.alternate"](#disable-resolving-foo-as-wwwfoocom). </p>
+ Updated for September 2020: added [the section on "browser.fixup.alternate"](#fallback-resolve). 
+{: .update}
 
 Firefox is a lovely browser. It's quick, has good extension support, and its developers have a much better attitude to privacy than [its main competitor](https://en.wikipedia.org/wiki/Usage_share_of_web_browsers#/media/File:StatCounter-browser-ww-monthly-200901-201905.png).
 
@@ -14,6 +14,7 @@ There are a few default behaviours which are tuned for user-friendliness instead
 
 
 ## Disable fallback searches going to Google
+{: #fallback-search}
 
 If you type anything into the URL bar but it's not a URL, then Firefox will fall back to your default search engine and start a search.
 
@@ -26,6 +27,7 @@ Sometimes you typed into the wrong box, or you typo'd the URL you intended, or y
 - double-click it and the row will change value to `false` and the text will turn bold to show it's been modified
 
 ## Disable resolving "foo" as "www.foo.com"
+{: #fallback-resolve}
 
 I often type **fa** to go to Facebook, but pressing enter before it catches up and suggests Facebook. By default, Firefox will[^1] then try to go to "www.fa.com".
 
@@ -41,6 +43,7 @@ That's better.
 
 
 ## Add search bar in toolbar
+{: #add-search-bar}
 
 We just disabled searches from the address bar, but searches are useful. Let's add a secondary search bar. Older users may remember when this was the default.
 
@@ -54,6 +57,7 @@ Pro tip: if you click the magnifying glass in the search bar, you see those icon
 
 
 ## Extensions
+{: #extensions}
 
 Get yourself an ad blocker and a password manager. I'm fond of [1Password](https://1password.com) for the latter. Also consider [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/) by the Electronic Frontier Foundation if you don't like click tracking.
 
