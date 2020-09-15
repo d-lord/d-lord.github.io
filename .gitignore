@@ -17,6 +17,7 @@ Gemfile.lock
 vendor/
 .rbenv-version
 .rvmrc
+.bundle
 
 # bloody macOS
 .DS_Store
