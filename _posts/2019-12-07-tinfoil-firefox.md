@@ -5,10 +5,12 @@ excerpt: "Firefox is a lovely browser. But there are a few default behaviours wh
 published: true
 ---
 
+{::options parse_block_html="true" /}
+<p class="update"> Updated for September 2020: added [the section on "browser.fixup.alternate"](#disable-resolving-foo-as-wwwfoocom). </p>
+
 Firefox is a lovely browser. It's quick, has good extension support, and its developers have a much better attitude to privacy than [its main competitor](https://en.wikipedia.org/wiki/Usage_share_of_web_browsers#/media/File:StatCounter-browser-ww-monthly-200901-201905.png).
 
 There are a few default behaviours which are tuned for user-friendliness instead of caution.
-
 
 
 ## Disable fallback searches going to Google
@@ -17,13 +19,20 @@ If you type anything into the URL bar but it's not a URL, then Firefox will fall
 
 Sometimes you typed into the wrong box, or you typo'd the URL you intended, or you were trying to go directly to a page in your history by typing a couple of keywords but typed too many keywords and it vanished, and now your search engine knows that you were looking for **amazon wedding ring**.
 
-I do this a lot by typing **fa** to go to Facebook, but pressing enter before it catches up and suggests Facebook.
-
 - test that it's currently enabled: open a new tab, and type `foo` into your address bar; if this is enabled, it'll send you to a Google/etc search result for "foo"
 - type `about:config` into your address bar and click through the warning (it's OK, you know what you're doing, you're with me!)
 - type `keyword.enabled` into the search bar on the page
 - in a default install, it's set to the value `true`
 - double-click it and the row will change value to `false` and the text will turn bold to show it's been modified
+
+## Disable resolving "foo" as "www.foo.com"
+
+I often type **fa** to go to Facebook, but pressing enter before it catches up and suggests Facebook. By default, Firefox will[^1] then try to go to "www.fa.com".
+
+[^1]: It seems like this became default in Firefox 79 or 80.
+
+- go to about:config as before
+- go to `browser.fixup.alternate.enabled` and toggle it to `false`
 - test it by opening a new tab, typing `foo` into your address bar, and expect a failure result like this:
 
 ![Screenshot of Firefox error page: "Please check that the URL is correct and try again."](/assets/images/firefox_fallback_search_disabled_error.png)
