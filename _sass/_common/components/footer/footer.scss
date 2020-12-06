@@ -15,7 +15,7 @@
 .powered-by,
 .theme-info { display: inline-block; }
 
-.powered-by {
+.powered-by, .theme-info {
   margin-right: 10px;
 
   &::after {
@@ -36,4 +36,8 @@
   }
 
   img { display: inline-block; }
+}
+
+.rss-cta {
+  display: inline-block;
 }

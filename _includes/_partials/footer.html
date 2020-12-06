@@ -21,3 +21,10 @@
   </a>
 </div>
 {% endif %}
+
+<div class="rss-cta">
+  {% assign site_rss = site.rss %}
+  {% if site.feed and site.feed.path and site.rss == '' or site.rss == nil %}
+    {% assign site_rss = site.feed.path %}
+  {% endif %}
+  Subscribe via <a class="theme-link" href="{{ site_rss }}">RSS</a>
