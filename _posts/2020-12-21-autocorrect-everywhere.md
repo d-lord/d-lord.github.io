@@ -17,11 +17,11 @@ When I replaced my faithful MacBook recently, I realised that I'd spent seven ye
 
 Open System Preferences. Go to `Keyboard` > `Text` and untick:
 
-* Correct spelling automatically
-* Capitalise words automatically
-* Touch Bar typing suggestions (this is important as it protects you from iOS-style ~~distractions~~ suggestions)
+* `Correct spelling automatically`
+* `Capitalise words automatically`
+* `Touch Bar typing suggestions` (this is important as it protects you from iOS-style ~~distractions~~ suggestions)
 
-"Use smart quotes and dashes" is quite nice and mostly harmless, though.
+`Use smart quotes and dashes` is quite nice and mostly harmless, though.
 
 ## PyCharm
 
