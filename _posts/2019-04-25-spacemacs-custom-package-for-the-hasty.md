@@ -1,6 +1,6 @@
 ---
 layout: post
-title:	"Creating packages in Spacemacs for the programmer in a hurry"
+title:	"How to create a package in Spacemacs, for the programmer in a hurry"
 excerpt: "Suppose you want to create a new minor mode called `bulletins-mode`, and you're feeling inspired, so you want to get it usable ASAP, without worrying about the ideal way to do it. This is slightly harder to do in Spacemacs than in core Emacs."
 date:	2019-04-25 00:00:00
 published: true
