@@ -14,4 +14,4 @@ While practising figure-8s on a Z300 a while back, I ran over a branch mid-corne
 
 Learned a bit about motion tracking, the work area, the trim path effect, and the "wiggle paths" effect.
 
-<video src="https://lord.geek.nz/f/carpark-effects.mp4" style="max-width: 100%; width: 100%;" controls="true">
+<video src="https://lord.geek.nz/f/carpark-effects.mp4" style="max-width: 100%; width: 100%;" controls="true"></video>
