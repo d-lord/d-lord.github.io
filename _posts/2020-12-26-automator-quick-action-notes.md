@@ -32,7 +32,7 @@ The workflow depends on:
     * `cwebp` (installed via homebrew)
     * `imagemagick` (installed via homebrew)
 
-`image2webp` lives in my `~/bin` folder, along with a bunch of other home-grown scripts that I have in my `$PATH`. The other two are in `/usr/local/bin` as per usual.
+`image2webp` lives in my `~/bin` folder, along with a bunch of other home-grown scripts that I have in my `$PATH`. The other two are in `/usr/local/bin` as usual.
 
 The workflow can invoke `~/bin/image2webp` directly, but when that runs, it won't by default have the homebrew paths for `/usr/local/bin/{cwebp,imagemagick}`.
 
