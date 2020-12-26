@@ -1,5 +1,5 @@
 ---
-title: "Zsh notes from the image2webp Quick Action"
+title: "Zsh notes from a macOS Quick Action"
 date: 2020-12-26 00:00:00
 published: true
 excerpt: "Some notes on zsh environment variables while creating a macOS quick action to prepare images for web publishing."
@@ -9,7 +9,10 @@ tags: macos automator zsh bash
 
 These are some notes from a custom script called "image2webp", which acts as a macOS Quick Action to prepare an image for publishing on my website. It takes an image and resizes it to some common display sizes, as well as producing versions in [WebP](https://en.wikipedia.org/wiki/WebP) format for browsers which support it.
 
-<video src="https://lord.geek.nz/f/resize-and-webp-demo.mp4" style="max-width: 100%; width: 100%;" controls="true"></video>
+<video style="max-width: 100%; width: 100%;" controls type="video/mp4" preload="auto">
+  <source src="https://lord.geek.nz/f/resize-and-webp-demo.mp4" type="video/mp4">
+  <source src="https://lord.geek.nz/f/resize-and-webp-demo-720.mp4" type="video/mp4">
+</video>
 
 As you can see, the script is built into Finder, and you can right-click any image to create a folder containing web-ready versions.
 
