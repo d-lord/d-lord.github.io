@@ -3,7 +3,7 @@ title: "Zsh notes from the image2webp Quick Action"
 date: 2020-12-26 00:00:00
 published: true
 excerpt: "Some notes on zsh environment variables while creating a macOS quick action to prepare images for web publishing."
-thumbnail: /assets/images/resize_and_webp_source.png
+thumbnail: assets/images/resize_and_webp_source.png
 tags: macos automator zsh bash
 ---
 
