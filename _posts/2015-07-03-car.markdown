@@ -28,7 +28,7 @@ It has some compromises, being a modified economy car. The infotainment and spea
 
 This could very easily fit into my life. It works as a perfectly innocuous city car (one painted bright orange), but past half throttle, it's suddenly a modest sports car. I could love it, baby it, wipe brake dust off the wheels weekly and moan the whole time... [footnote: "moan" as in "bitch", but the double-entendre isn't entirely inaccurate] But cars are so damn expensive to run.
 
-[racv-tco][RACV released a report recently] on the total cost of ownership (TCO) of a new car over five years. In short, I think they did a good job including all the costs, although the expected annual mileage is a bit high for me. The absolute minimum they could get is about $100/wk. *Minimum*. Of course, you don't have to buy cars new, and in general I approve of buying second-hand and good-condition: it saves a lot of money and only costs some "shiny" factor. But for a hot car specifically, I think it's really hard to judge condition: did the previous owner flog it from cold? I don't want to be responsible for a turbocharger which took a lot of damage from that kind of treatment.
+[racq-tco][RACQ released a report recently] on the total cost of ownership (TCO) of a new car over five years. In short, I think they did a good job including all the costs, although the expected annual mileage is a bit high for me. The absolute minimum they could get is about $100/wk. *Minimum*. Of course, you don't have to buy cars new, and in general I approve of buying second-hand and good-condition: it saves a lot of money and only costs some "shiny" factor. But for a hot car specifically, I think it's really hard to judge condition: did the previous owner flog it from cold? I don't want to be responsible for a turbocharger which took a lot of damage from that kind of treatment.
 
 But... I want one. I've been fighting this war for months inside my head, and it recently heated up when I decided to try this test-drive and hopefully decide that it's not a war worth fighting: unfortunately, it turned out that the Fiesta ST is a beautiful, lethal escalation. It's the mustard gas to my [Ypres][wiki-mustard-gas]. 
 
@@ -55,5 +55,5 @@ It's utterly daft that I've agonised over replacing my slow, problematic phone f
 
 I'm not buying a car. But I sure wish I were.
 
-[racv-tco]: http://www.racq.com.au/cars-and-driving/cars/owning-and-maintaining-a-car/car-running-costs
+[racq-tco]: http://www.racq.com.au/cars-and-driving/cars/owning-and-maintaining-a-car/car-running-costs
 [wiki-mustard-gas]: https://en.wikipedia.org/wiki/Chemical_weapons_in_World_War_I#1917:_Mustard_gas
