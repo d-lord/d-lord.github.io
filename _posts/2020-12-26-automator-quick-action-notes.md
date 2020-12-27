@@ -28,12 +28,12 @@ Here's the workflow itself.
 
 ## The problem
 
-Here it is: **All three of those programs aren't available in the default environment Automator runs scripts in**.
-
 The workflow depends on:
   * `image2webp`, which depends on:
     * `cwebp` (installed via homebrew)
     * `imagemagick` (installed via homebrew)
+
+Here's the problem: **All three of those programs aren't available in the default environment Automator runs scripts in**.
 
 `image2webp` lives in my `~/bin` folder, along with a bunch of other home-grown scripts that I have in my `$PATH`. The other two are in `/usr/local/bin` as usual.
 
@@ -81,6 +81,7 @@ However, while reading [StackOverflow's most popular zsh question](https://super
 ```zsh
 # ~/.zshrc loads ~/.profile, if it exists, with this:
 [[ -e ~/.profile ]] && emulate sh -c 'source ~/.profile'
+
 # ~/.zprofile doesn't exist
 ```
 
@@ -88,6 +89,7 @@ But the consensus is that it should be like this:
 
 ```zsh
 # ~/.zshrc has no awareness of profiles
+
 # ~/.zprofile loads ~/.profile, if it exists, with the same command:
 [[ -e ~/.profile ]] && emulate sh -c 'source ~/.profile'
 ```
