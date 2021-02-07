@@ -38,7 +38,7 @@ The friends and family I've mentioned this to have had a wide variety of respons
 
 Nobody has yet pointed out that putting a climate sticker on a motorbike - which burns as much fuel as a compact car - seems like a contradiction, but I'd love to see the bike market progress in that direction too. My recent purchase was made with fuel economy front of mind, and the bike uses ~4.5L/100km rather than the ~8 I was considering. Plus, it normalises that enthusiasts can also care about environmental issues.
 
-The podcast [How to Save a Planet](https://gimletmedia.com/shows/howtosaveaplanet) ends every episode with a list of ways you can do something about a climate-related issue. A lot of it comes down to the fact that reducing individual consumption is far less effective than setting national and international policy in the right direction, so this is my first tentative attempt.
+The podcast [How to Save a Planet](https://gimletmedia.com/shows/howtosaveaplanet) ends every episode with a list of ways you can do something about a climate-related issue. A lot of it comes down to the fact that reducing individual consumption is far less effective than setting national and international policy in the right direction, so this is my first very small, very tentative attempt.
 
 So, well, here we are. Guess I'm finally starting to do something about it.
 
