@@ -10,11 +10,11 @@ So I did something new today.
 
 I've ordered a few stickers for my car & motorbike, along the lines of:
 
-> **"I’m pretty worried about the climate".**
+> I’m pretty worried about the climate.
 
 The sticker with the strongest phrasing says:
 
-> **"Vote for climate action"**.
+> <p style="font-size:1.4em;"><b>Vote for climate action</b></p>
 
 I’m no stranger to being opinionated and vocal, but this is a new step, and it’s weirdly uncomfortable.
 
