@@ -1,6 +1,6 @@
 ---
 title: "I've finally clicked with roguelikes"
-date: 2021-02-07 00:00:00
+date: 2021-02-19 00:00:00
 published: true
 excerpt: "Still not becoming a video game writer, though."
 tags: games lifestyle
