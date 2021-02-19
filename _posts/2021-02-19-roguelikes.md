@@ -4,6 +4,7 @@ date: 2021-02-19 00:00:00
 published: true
 excerpt: "Still not becoming a video game writer, though."
 tags: games lifestyle
+thumbnail: /assets/images/spire_first_victory.png
 ---
 
 I feel like I've suddenly clicked with the roguelike indie genre, a few years late, and now I'm working my way through it in reverse chronological order.
@@ -23,6 +24,8 @@ Dark Souls was really satisfying to learn and get right, and just as unrelenting
 Leisure time should respect the player's time.
 
 Oh, and one more thing, which seems to be an original thought; Slay the Spire's boss music put me so strongly in mind of [One-Winged Angel](https://www.youtube.com/watch?v=hjS689rvbOw) that after finishing the last battle, I couldn't remember the actual music, but I did now have One-Winged Angel stuck in my head. It's a legendary track, and if you've never heard it (Ben) then it's worth a listen. But when I went looking for discussion on it, I found none. Shame - you always wonder if someone can explain precisely what makes them similar, in fancy music words.
+
+![Screenshot of the Slay the Spire stats screen showing the successful build.](/assets/images/spire_first_victory.png){:.center-image}
 
 [^1]: I adore her, but being in one room with one person for a fortnight (plus walking breaks in the prison yard) will strain the sweetest of temperaments, possibly through a sieve.
 [^2]: "Grok" is another word for "understand", favoured by nerds particularly for its use in the famous StackOverflow post about [grokking vim](https://stackoverflow.com/a/1220118/2209946). Wikipedia reckons [it showed up in scifi in 1961](https://en.wikipedia.org/wiki/Grok).
