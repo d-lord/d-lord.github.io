@@ -3,6 +3,7 @@ title: "I've finally clicked with roguelikes"
 date: 2021-02-07 00:00:00
 published: true
 excerpt: "Still not becoming a video game writer, though."
+tags: games lifestyle
 ---
 
 I feel like I've suddenly clicked with the roguelike indie genre, a few years late, and now I'm working my way through it in reverse chronological order.
