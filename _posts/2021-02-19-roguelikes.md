@@ -4,7 +4,7 @@ date: 2021-02-19 00:00:00
 published: true
 excerpt: "Still not becoming a video game writer, though."
 tags: games lifestyle
-thumbnail: /assets/images/spire_first_victory.png
+thumbnail: assets/images/spire_first_victory.png
 ---
 
 I feel like I've suddenly clicked with the roguelike indie genre, a few years late, and now I'm working my way through it in reverse chronological order.
