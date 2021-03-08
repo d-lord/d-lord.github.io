@@ -45,3 +45,13 @@ So, well, here we are. Guess I'm finally starting to do something about it.
 **Have you dipped a toe into proclaiming a cause that matters to you, and how do you feel about it? I'd love to hear from you.**
 
 PS - I also added "born circa 350ppm" to my Twitter bio, because if it's good enough for Greta Thunberg (born at 375ppm, ten years later), it's good enough for me.
+
+# Update
+
+They've arrived! It's not something you often see on a bike.
+
+![A blue sticker on a black motorbike saying "vote climate."](/assets/images/bike_sticker.jpg)
+
+Wish I'd waited for the wind to die down before putting the car's on - that misalignment is going to bug me! Maybe it'll be washed away in a storm.
+
+![A big sticker on the front of a blue car saying "VOTE CLIMATE ACTION".](/assets/images/car_front_sticker.jpg)
