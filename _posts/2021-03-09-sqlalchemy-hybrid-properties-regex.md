@@ -18,7 +18,7 @@ The queries we want to run will look like this:
 
 {% highlight sql %}
 SELECT title,
-title REGEXP 'some pattern' AS is_alert
+title REGEXP '- (?:UPDATED? )?ALERT' AS is_alert
 FROM nodes;
 {% endhighlight %}
 
