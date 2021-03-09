@@ -76,13 +76,7 @@ Remember, the queries we want to run will look like this:
 
 {% highlight sql %}
 SELECT title,
-title REGEXP 'some pattern' AS is_alert
-FROM nodes;
-{% endhighlight %}
-
-{% highlight sql %}
-SELECT title,
-title REGEXP '[[.full-stop.]][[:digit:]]{4}[[.full-stop.]][[:digit:]]+$' AS is_update
+title REGEXP 'some pattern' AS attribute_name
 FROM nodes;
 {% endhighlight %}
 
