@@ -1,5 +1,5 @@
 ---
-title: "How to use regular expression hybrid properties in SQLAlchemy"
+title: "How to use hybrid properties with regular expressions in SQLAlchemy"
 excerpt: "SQLAlchemy has these things called hybrid properties, which let you create class attributes that can be accessed from Python but also from SQL. They can be tricky to understand."
 date: 2021-03-09 00:00:00
 published: true
