@@ -106,7 +106,7 @@ copyright: true
 # See: https://support.google.com/webmasters/answer/139066
 # Tips: Before you open this tag, remember set up your URL in _config.yml ( ex. url: http://yourdomain.com )
 # [dal] commented this out since it seems that _includes/_partials/head.html sets a canonical path of the root domain (???) unless you specify a canonical URL in the post itself
-canonical: false
+canonical: true
 
 # Change headers hierarchy on site-subtitle (will be main site description) and on all post/pages titles for better SEO-optimization.
 seo: false
