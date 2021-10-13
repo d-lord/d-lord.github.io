@@ -6,7 +6,7 @@ date:	2018-07-28 00:00:00
 published: true
 categories:
 thumbnail: assets/thumb-more-asyncio-queues.png
-tags: python performance asyncio
+tags: python performance asyncio programming
 ---
 
 **This post is based on [a previous blog post]({{ site.baseurl }}{% post_url 2018-06-12-asyncio-queues %}).**

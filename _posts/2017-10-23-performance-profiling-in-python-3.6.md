@@ -4,7 +4,7 @@ title: "High-performance network requests in Python 3.6"
 date: 2017-10-23 00:00
 published: true
 excerpt: "aiohttp is pretty good."
-tags: python async aiohttp
+tags: python async aiohttp programming
 thumbnail: assets/images/2017-10-23-python-profiling-results.png
 ---
 

@@ -4,6 +4,7 @@ date: 2021-02-07 00:00:00
 published: true
 excerpt: "Musings on becoming a climate activist."
 thumbnail: assets/images/vote_climate_action.jpg
+tags: vehicles
 ---
 
 So I did something new today.

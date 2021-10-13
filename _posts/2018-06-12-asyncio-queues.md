@@ -4,7 +4,7 @@ title:	"asyncio queues"
 date:	2018-06-12 00:00:00
 published: true
 categories:
-tags: python performance
+tags: python performance programming
 ---
 
 Here's a toy program I wrote today in Python 3.6, to try out the [`asyncio.Queue`](https://docs.python.org/3.6/library/asyncio-queue.html) object. One coroutine pushes an item to the queue every second, and two more fetch them from the queue and "process" them. Over time, the processors are too slow and the queue builds up.

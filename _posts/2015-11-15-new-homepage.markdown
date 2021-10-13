@@ -3,7 +3,7 @@ layout: post
 title: "New homepage!"
 date: 2015-11-15
 published: true
-tags: dev javascript
+tags: programming javascript
 ---
 
 [Check it out!](http://lord.geek.nz) This is my first web project of any significant merit, and I'm pretty happy with it so far.

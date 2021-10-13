@@ -7,7 +7,7 @@ meta: >
     Shadow toy
 categories:
 thumbnail: assets/images/c79da.png
-tags: javascript html5 toy jquery facebook
+tags: javascript html5 toy jquery facebook programming
 ---
 
 I was playing around in Javascript and wound up making a toy called [Shadow][shadow-static-link]. It's written in pure JS with HTML5 canvas, no need for jQuery.

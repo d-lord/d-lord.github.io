@@ -3,7 +3,7 @@ title: "UQCS lightning talk: Requests"
 date:	2019-08-15 00:00:00
 excerpt: "I gave a lightning talk for the UQ Computing Society on the Requests library for Python."
 published: true
-tags: talks python
+tags: talks python programming
 thumbnail: /assets/images/requests_lightning_talk_title_slide.png
 nofancybox: true
 ---

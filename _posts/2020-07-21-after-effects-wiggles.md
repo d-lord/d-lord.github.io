@@ -5,7 +5,7 @@ excerpt: I did a cute lil After Effects video of a motorbike moment.
 date:	2020-07-21 00:00:00
 published: true
 thumbnail: assets/images/thumb-carpark-edit.jpg
-tags: after-effects z300
+tags: after-effects motorbikes vehicles
 ---
 
 It's not much, but I think it's neat.
