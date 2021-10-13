@@ -19,4 +19,4 @@ Thanks heaps to the friendly folks in the [UQ Computing Society's](https://uqcs.
 
 **Anyway, here's [prettypipe](https://github.com/d-lord/prettypipe/).**
 
-![Screenshot of a curl command, with stdout in green and stderr in red](/assets/images/thumb-prettypipe.png)
+![Screenshot of a curl command, with stdout in green and stderr in red](/assets/images/prettypipe-full.png)
