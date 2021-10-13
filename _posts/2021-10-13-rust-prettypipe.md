@@ -3,7 +3,7 @@ title: "Prettypipe"
 excerpt: "My very first Rust program helps you distinguish between stdout and stderr."
 published: true
 date: 2021-10-13 00:00:00
-thumbnail: assets/images/thumb-prettypipe.png
+thumbnail: assets/images/thumb-prettypipe-intro.png
 tags: rust programming
 ---
 
