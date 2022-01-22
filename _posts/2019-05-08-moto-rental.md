@@ -26,7 +26,7 @@ I learned on a succession of 125, 150 and 250ccs. While lightweight, and still f
 
 The Mazda MX-5, enthusiast's friend, is notorious for its "slow car fast" experience. A low-slung, under-insulated convertible has a knack for keeping things raw, which makes every driving speed feel faster. Lipstick on a piglet, if you will.
 
-A motorbike takes the lipstick and applies foundation, concealer, blush and maybe a little mascara.
+A motorbike takes the lipstick and applies foundation, concealer, mascara, and maybe a little blush.
 
 I mean, motoring journalists talk about flooring a Mustang and being pressed backward into the bucket seats. But the first time you open the throttle on a motorbike and feel yourself start to slide off the seat a little, it sets a new benchmark. [^1]
 
@@ -38,7 +38,7 @@ Also, cornering is weird. Countersteer is weird, leaning is weird, and the thoug
 
 ## Engine-braking
 
-Much, much stronger on a bike. Maybe because they rev higher? Even when going down quite a steep hill, you might want to press the brake a little just to flash the brake like so cars behind know that you're slowing.
+Much, much stronger on a bike. Maybe because they rev higher? Even when going down quite a steep hill, you might want to press the brake a little just to flash the brake light so cars behind know that you're slowing.
 
 ## Mirrors
 
