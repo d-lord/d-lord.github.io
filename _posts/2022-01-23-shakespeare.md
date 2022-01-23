@@ -1,6 +1,6 @@
 ---
 title: "Shakespearean references and British authors"
-excerpt: "I had some strong opinions on the internet. Give Shakespeare a rest, and leave him out of original content occasionally."
+excerpt: "I had some strong opinions on the internet: give Shakespeare a rest, and leave him out of original content occasionally."
 date: 2022-01-23 00:00:00
 published: true
 ---
