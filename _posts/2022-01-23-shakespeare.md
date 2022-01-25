@@ -37,6 +37,6 @@ Had a bit of a thought last night after a glass of whiskey and decided it ought 
 
 <blockquote class="twitter-tweet" data-conversation="none" data-dnt="true"><p lang="en" dir="ltr">(I did like Rotherweird, and I do like Brisbane, and I even excuse Pratchett given that he referenced the sum total of human history in his time. But I wish Shakspere didn&#39;t crop up so often. What magic was there is gone now that we have high-speed rail and paperless offices.)</p>&mdash; dal (@dal_geek) <a href="https://twitter.com/dal_geek/status/1484838440294547466?ref_src=twsrc%5Etfw">January 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-I'm pretty happy with this. It was all written off the cuff, tweet by tweet, and incorporates enough references of my own to add some spice. _A Midsummer Night's Dream_, pixie folklore, spice trade, Brisbane's expo, Ozymandias, Yu-Gi-Oh. It's scattered but, I dunno, I like that breadth.
+I'm pretty happy with this. It was all written off the cuff, tweet by tweet, and incorporates enough references of my own to add some spice. _A Midsummer Night's Dream_, pixie folklore, spice trade, Brisbane's expo, Newton into Ozymandias, Yu-Gi-Oh. It's scattered but, I dunno, I like that breadth.
 
 However... it's also, in the cold light of day, a bit ruder than I'm proud of. This is hard to quantify - it's fun that way, but the internet has enough flame wars, you know?
