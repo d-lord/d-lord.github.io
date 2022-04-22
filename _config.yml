@@ -466,8 +466,10 @@ gitalk:
 # See: https://www.google.com/webmasters/
 #google_site_verification:
 
-# Google Analytics
+# Google (Universal) Analytics
 google_analytics: UA-124593482-1
+# Google Analytics 4 (newer than Universal)
+ga_measurement_id: G-H3KNGYEYD4
 
 # Yandex Webmaster tools verification setting
 # See: https://webmaster.yandex.ru/
