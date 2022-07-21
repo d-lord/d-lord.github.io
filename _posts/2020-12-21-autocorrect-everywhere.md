@@ -33,6 +33,10 @@ Open Settings (`⌘+,`) > `Editor` > `Inspections` > `Proofreading` and untick t
 
 Most notably, this will protect you from "typos" in your code or strings that are acronyms.
 
+It also has an invasive list under `Editor` -> `Natural Languages` -> `Grammar`. Turn this all off.
+
+![Screenshot of the Natural Languages section.](/assets/images/PyCharm-NaturalLanguages.png)
+
 ## Word
 
 Word on macOS seems to keep this in two different places.
