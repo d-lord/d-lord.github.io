@@ -5,6 +5,7 @@ published: true
 excerpt: "Musings on becoming a climate activist."
 thumbnail: assets/images/vote_climate_action.jpg
 tags: vehicles
+disable_toc: true
 ---
 
 So I did something new today.

@@ -5,7 +5,7 @@ excerpt: "Turns out: You can pack a picnic and spend all day behind the wheel of
 date:	2018-08-22 00:00:00
 published: true
 thumbnail: assets/images/thumb-mustang-tail-lights.jpg
-tags: cars vehicles lifestyle
+tags: cars lifestyle
 ---
 
 ![Brake lights on the Mustang.](/assets/images/mustang_tail_lights_web.jpg){:.center-image}

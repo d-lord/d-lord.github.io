@@ -3,7 +3,7 @@ layout: post
 title:  "I'm not buying a car"
 date:   2015-07-03 00:00
 published: false
-tags: car fiesta-st phone
+tags: cars fiesta-st phone
 ---
 A few years ago, my conscience branched out into personal finance. It has diligently acted as an always-on financial advisor ever since.
 (alt) A few years ago, I left home, and my conscience took on a second job to pay the bills: it branched out into personal finance.
