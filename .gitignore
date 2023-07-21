@@ -11,6 +11,8 @@ _theme_packages
 Session.vim
 .netrwhist
 *~
+# PyCharm
+.idea
 
 # ruby
 Gemfile.lock
