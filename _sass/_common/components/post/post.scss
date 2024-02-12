@@ -23,6 +23,15 @@
   font-style: italic;
 }
 
+// dal hax
+.post-body img.inline-icon {
+    display: inline;
+    height: 1em;
+    margin: 0 0;
+    border: 0;
+    padding: 0;
+}
+
 .post-body .fancybox img {
   display: block !important;
   margin: 0 auto;
