@@ -3,7 +3,7 @@ layout: post
 title:	"Software I like"
 date:	2024-02-11 00:00:00
 published: true
-excerpt: '.'
+excerpt: "A bunch of stuff I think is worth paying money for, even when you don't have to."
 tags: macos software programming
 nofancybox: true
 thumbnail: assets/images/software_i_like_hero.png
